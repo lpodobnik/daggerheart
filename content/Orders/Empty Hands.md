@@ -1,12 +1,13 @@
 ---
-title: The Vow of Peace
+title: The Empty Hands
 aliases:
-- The Vow of Peace
+- The Empty Hands
+- Vow of Peace
 tags:
 - order
 ---
 
-> Samaritans of many races, bound to no city, who give up their possessions to help wherever there is ruin.
+> Samaritans of many races, bound to no city, who give up their possessions to help wherever there is ruin. They own nothing and give everything.
 
 **Founded: c. year 610 (Third Age), by [[Atlas]]**
 
