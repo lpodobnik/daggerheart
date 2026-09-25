@@ -1,12 +1,11 @@
 ---
+title: The Final End
 aliases:
 - The Final End
 - the obelisk
 tags:
 - place
 ---
-
-# The Final End
 
 > A great obelisk of fused desert crystals in the orcs' central war camp.
 

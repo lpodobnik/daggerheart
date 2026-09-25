@@ -1,12 +1,11 @@
 ---
+title: The Misty Mountains
 aliases:
 - The Misty Mountains
 - The southern mountains
 tags:
 - place
 ---
-
-# The Misty Mountains
 
 > Mountains that fall sheer into a fog-bound sea, like Velebit. No great city will ever stand there.
 

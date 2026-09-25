@@ -1,11 +1,10 @@
 ---
+title: The Corpse Field
 aliases:
 - The Corpse Field
 tags:
 - place
 ---
-
-# The Corpse Field
 
 > Where the Ice Giants came to free Glaive Port, and died.
 

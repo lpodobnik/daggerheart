@@ -1,9 +1,8 @@
 ---
+title: Elyndra's Coastal City
 tags:
 - place
 ---
-
-# Elyndra's Coastal City
 
 > The city a wounded angel built on the coast after her army died at Glaive Port.
 

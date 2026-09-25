@@ -1,4 +1,5 @@
 ---
+title: The Elf Outpost Marines
 aliases:
 - The Elf Outpost Marines
 - marines
@@ -6,8 +7,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Elf Outpost Marines
 
 > Fighters for war at sea, raised at the Elf Outpost.
 

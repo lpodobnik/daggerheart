@@ -1,4 +1,5 @@
 ---
+title: The Water Elves
 aliases:
 - The Water Elves
 - Elves
@@ -6,8 +7,6 @@ aliases:
 tags:
 - people
 ---
-
-# The Water Elves
 
 > Skilled sailors who spread through the islands along the cold currents. Once neutral, now decadent.
 

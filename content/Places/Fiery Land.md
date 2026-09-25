@@ -1,12 +1,11 @@
 ---
+title: The Fiery Land
 aliases:
 - The Fiery Land
 - The fiery land
 tags:
 - place
 ---
-
-# The Fiery Land
 
 > A peninsula's tip of geysers and hot, spitting mud.
 

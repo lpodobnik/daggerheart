@@ -1,11 +1,10 @@
 ---
+title: The Echoes of the Void
 aliases:
 - The Echoes of the Void
 tags:
 - order
 ---
-
-# The Echoes of the Void
 
 > They sense that sound, dance and colour together can reach their ancestors — but do not yet know how.
 

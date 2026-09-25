@@ -1,11 +1,10 @@
 ---
+title: The Skybreak
 aliases:
 - The Skybreak
 tags:
 - event
 ---
-
-# The Skybreak
 
 > Magical storms close the sky. Nothing may fly.
 

@@ -1,4 +1,5 @@
 ---
+title: The Hands of Elyndra
 aliases:
 - The Hands of Elyndra
 - The Healers
@@ -6,8 +7,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Hands of Elyndra
 
 > Ice Giant healers who learned, through the crystal of the north, to channel healing magic.
 

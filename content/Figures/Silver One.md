@@ -1,12 +1,11 @@
 ---
+title: The Silver One
 aliases:
 - The Silver One
 - Sylver Surfer
 tags:
 - figure
 ---
-
-# The Silver One
 
 > A silver shape risen out of Star Lake: humanoid before there were humanoids, with no face and no sex.
 

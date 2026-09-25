@@ -1,12 +1,11 @@
 ---
+title: The Purifiers of Evil
 aliases:
 - The Purifiers of Evil
 - Purifiers
 tags:
 - order
 ---
-
-# The Purifiers of Evil
 
 > A good Ice Giant order raised for a counter-offensive — to take an army and set Glaive Port free.
 

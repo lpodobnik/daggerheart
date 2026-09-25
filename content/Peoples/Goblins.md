@@ -1,12 +1,11 @@
 ---
+title: The Goblins
 aliases:
 - The Goblins
 - Goblin
 tags:
 - people
 ---
-
-# The Goblins
 
 > Evil raiders out of the south-eastern mountains.
 

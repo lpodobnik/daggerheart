@@ -1,11 +1,10 @@
 ---
+title: The Bazaar
 aliases:
 - The Bazaar
 tags:
 - place
 ---
-
-# The Bazaar
 
 > One enormous market where the roads cross the river — no walls, no war, and bread and bedrolls for every army.
 

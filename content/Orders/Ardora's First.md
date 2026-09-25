@@ -1,11 +1,10 @@
 ---
+title: Ardora's First
 aliases:
 - Ardora's First
 tags:
 - order
 ---
-
-# Ardora's First
 
 > The nobility of fire: those descended from the very first Genasi to fall burning from Ardor.
 

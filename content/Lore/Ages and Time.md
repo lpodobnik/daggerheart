@@ -1,4 +1,5 @@
 ---
+title: Ages and Time
 aliases:
 - Ages
 - Calendar
@@ -6,8 +7,6 @@ aliases:
 tags:
 - lore
 ---
-
-# Ages and Time
 
 > Year zero is the falling star that landed far in the west with a great roar.
 

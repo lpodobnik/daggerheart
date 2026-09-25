@@ -1,11 +1,10 @@
 ---
+title: The Frost Genasi City
 aliases:
 - Eisgard
 tags:
 - place
 ---
-
-# The Frost Genasi City
 
 > Where the Frost Genasi gave up their igloos for a real city, on the island amid the ice floes.
 

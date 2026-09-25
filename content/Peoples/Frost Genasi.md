@@ -1,11 +1,10 @@
 ---
+title: The Frost Genasi
 aliases:
 - The Frost Genasi
 tags:
 - people
 ---
-
-# The Frost Genasi
 
 > Genasi who renounced fire, embraced ice, and lost their cinder to the cold.
 

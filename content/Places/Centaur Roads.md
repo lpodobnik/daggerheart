@@ -1,4 +1,5 @@
 ---
+title: The Centaur Roads
 aliases:
 - The Centaur Roads
 - the roads
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Centaur Roads
 
 > Highways beaten across the world by centaur hooves, built to outlast a thousand years — and in places they simply vanish.
 

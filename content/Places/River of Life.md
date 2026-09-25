@@ -1,12 +1,11 @@
 ---
+title: The River of Life
 aliases:
 - The River of Life
 - Life River
 tags:
 - place
 ---
-
-# The River of Life
 
 > The river a god of war drew when his heart softened.
 

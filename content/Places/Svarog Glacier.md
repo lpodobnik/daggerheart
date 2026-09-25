@@ -1,4 +1,5 @@
 ---
+title: The Svarog Glacier
 aliases:
 - The Svarog Glacier
 - Svarog's Glacier
@@ -8,8 +9,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Svarog Glacier
 
 > Mountains and a glacier above a great north-western bay, melting for years now.
 

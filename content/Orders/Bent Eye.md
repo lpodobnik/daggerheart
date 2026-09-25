@@ -1,11 +1,10 @@
 ---
+title: The Bent Eye
 aliases:
 - The Bent Eye
 tags:
 - order
 ---
-
-# The Bent Eye
 
 > Mushroom-eating shamans who build non-Euclidean structures; whoever sees one goes absolutely insane.
 

@@ -1,11 +1,10 @@
 ---
+title: The Eternal Steppe
 aliases:
 - The Eternal Steppe
 tags:
 - place
 ---
-
-# The Eternal Steppe
 
 > A vast steppe from the interior to the sea — perfect for riding.
 

@@ -1,11 +1,10 @@
 ---
+title: Sylvanus
 aliases:
 - Sylvanis
 tags:
 - god
 ---
-
-# Sylvanus
 
 > The god of the wild who raised islands, brought magic into the world, and built a great many cities.
 

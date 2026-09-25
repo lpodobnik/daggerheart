@@ -1,12 +1,11 @@
 ---
+title: Nyravel
 aliases:
 - The Last Tide's island
 - The explorers' island
 tags:
 - place
 ---
-
-# Nyravel
 
 > A small island of beautiful forest far in the north-west — the Last Tide's home, where the great crystal shattered.
 

@@ -1,11 +1,10 @@
 ---
+title: The First Meteor
 aliases:
 - The First Meteor
 tags:
 - event
 ---
-
-# The First Meteor
 
 > Svarog let chaos choose his place, and struck the near-centre of the continent with something from the sky.
 

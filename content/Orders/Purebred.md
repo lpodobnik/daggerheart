@@ -1,11 +1,10 @@
 ---
+title: The Purebred
 aliases:
 - The Purebred
 tags:
 - order
 ---
-
-# The Purebred
 
 > Centaur priests who hold that the union of beast and man makes them superior to every other race.
 

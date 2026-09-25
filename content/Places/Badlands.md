@@ -1,11 +1,10 @@
 ---
+title: The Badlands
 aliases:
 - The Badlands
 tags:
 - place
 ---
-
-# The Badlands
 
 > Razor-sharp limestone — blades of stone, pits and sinkholes. An avatar can cross it; ordinary folk barely.
 

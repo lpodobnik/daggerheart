@@ -1,4 +1,5 @@
 ---
+title: The Threadspinners
 aliases:
 - The Threadspinners
 - Svirači na nitima
@@ -7,8 +8,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Threadspinners
 
 > *Svirači na nitima* — they play silk strings to speak and to pass on knowledge.
 

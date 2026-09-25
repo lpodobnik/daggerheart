@@ -1,4 +1,5 @@
 ---
+title: The Water Druids
 aliases:
 - The Water Druids
 - army of water druids
@@ -6,8 +7,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Water Druids
 
 > The Grove's defenders: they confuse armies until their generals vanish, eaten by fungus or by trees.
 

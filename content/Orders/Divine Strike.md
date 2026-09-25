@@ -1,11 +1,10 @@
 ---
+title: Divine Strike
 aliases:
 - The Divine Strike
 tags:
 - order
 ---
-
-# Divine Strike
 
 > Harpies who spot for the Ballista from the air.
 

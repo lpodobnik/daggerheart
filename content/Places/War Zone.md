@@ -1,12 +1,11 @@
 ---
+title: The War Zone
 aliases:
 - The War Zone
 - WZ
 tags:
 - place
 ---
-
-# The War Zone
 
 > A war that ended in a tie, and so never ends — now fought in a swamp.
 

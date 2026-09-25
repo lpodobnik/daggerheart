@@ -1,11 +1,10 @@
 ---
+title: The Fall of Glaive Port
 aliases:
 - The Fall of Glaive Port
 tags:
 - event
 ---
-
-# The Fall of Glaive Port
 
 > No massacre, no pillage: curfew, martial law, and a trading city still trading.
 

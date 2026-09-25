@@ -1,12 +1,11 @@
 ---
+title: The Ice Giants
 aliases:
 - The Ice Giants
 - Ice Giant
 tags:
 - people
 ---
-
-# The Ice Giants
 
 > Good healers out of the Frozen North, broken at Glaive Port and now rare.
 

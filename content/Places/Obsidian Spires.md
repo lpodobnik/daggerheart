@@ -1,12 +1,11 @@
 ---
+title: The Obsidian Spires
 aliases:
 - The Obsidian Spires
 - The unnatural coast
 tags:
 - place
 ---
-
-# The Obsidian Spires
 
 > A coast that looks unnatural: a forest of glass spires that glows day and night.
 

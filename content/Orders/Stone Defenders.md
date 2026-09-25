@@ -1,12 +1,11 @@
 ---
+title: The Stone Defenders
 aliases:
 - The Stone Defenders
 - dwarven defender sect
 tags:
 - order
 ---
-
-# The Stone Defenders
 
 > The first warriors of the Children of Stone, armed with crude stone weapons.
 

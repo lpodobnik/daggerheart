@@ -1,4 +1,5 @@
 ---
+title: The Dwarves
 aliases:
 - The Dwarves
 - Children of Stone
@@ -8,8 +9,6 @@ aliases:
 tags:
 - people
 ---
-
-# The Dwarves
 
 > "The Children of Stone": struck from the Talus by lightning, the first and, they say, the best of races.
 

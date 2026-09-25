@@ -1,4 +1,5 @@
 ---
+title: The Elf Outpost
 aliases:
 - The Elf Outpost
 - EO
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Elf Outpost
 
 > An elven city on the coast between the jungle's edge and the mountains, and home port of the marines.
 

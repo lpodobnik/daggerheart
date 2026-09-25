@@ -1,12 +1,11 @@
 ---
+title: The Frozen North
 aliases:
 - The Frozen North
 - The pole
 tags:
 - place
 ---
-
-# The Frozen North
 
 > The far end of the world: hilly, bitterly cold — snow, ice, the pole.
 

@@ -1,4 +1,5 @@
 ---
+title: The Lizardmen
 aliases:
 - The Lizardmen
 - Lizardfolk
@@ -6,8 +7,6 @@ aliases:
 tags:
 - people
 ---
-
-# The Lizardmen
 
 > Wholly tribal and evil, ruled by nobles who killed every sibling in their clutch.
 

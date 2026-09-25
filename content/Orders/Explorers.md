@@ -1,11 +1,10 @@
 ---
+title: The Explorers
 aliases:
 - The Explorers
 tags:
 - order
 ---
-
-# The Explorers
 
 > The first order of the water elves, who mean to find what lies on far unknown shores.
 

@@ -1,11 +1,10 @@
 ---
+title: Star Metal
 aliases:
 - Star metal
 tags:
 - lore
 ---
-
-# Star Metal
 
 > The dwarves cannot see it, but they *feel* it glinting in the fissures.
 

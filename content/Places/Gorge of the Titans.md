@@ -1,4 +1,5 @@
 ---
+title: The Gorge of the Titans
 aliases:
 - The Gorge of the Titans
 - Gorge of Doom
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Gorge of the Titans
 
 > Not a river canyon but an open wound in the earth, reaching the sea.
 

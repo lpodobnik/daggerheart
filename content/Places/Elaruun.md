@@ -1,11 +1,10 @@
 ---
+title: Elaruun
 aliases:
 - The dragon's island
 tags:
 - place
 ---
-
-# Elaruun
 
 > The dragon's island, behind the winds — where a great crystal hangs in the air.
 

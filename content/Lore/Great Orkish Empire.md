@@ -1,12 +1,11 @@
 ---
+title: The Great Orkish Empire
 aliases:
 - The Great Orkish Empire
 - Orkish Empire
 tags:
 - lore
 ---
-
-# The Great Orkish Empire
 
 > An empire in the making, with Glaive Port as its heart, and it rotted before it was born.
 

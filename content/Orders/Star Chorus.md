@@ -1,11 +1,10 @@
 ---
+title: The Star Chorus
 aliases:
 - The Star Chorus
 tags:
 - order
 ---
-
-# The Star Chorus
 
 > Dissonant, terrible choral music set down from the void's sound, that stops a listener where they stand.
 

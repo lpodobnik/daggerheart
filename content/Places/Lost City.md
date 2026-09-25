@@ -1,4 +1,5 @@
 ---
+title: The Lost City of Knowledge and History
 aliases:
 - The Lost City
 - Lost City of Knowledge and History
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Lost City of Knowledge and History
 
 > An empty city somewhere in the former desert, whose keepers wrote down the whole history of the world.
 

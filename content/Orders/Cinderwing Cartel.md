@@ -1,4 +1,5 @@
 ---
+title: The Cinderwing Cartel
 aliases:
 - The Cinderwing Cartel
 - The Cartel
@@ -6,8 +7,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Cinderwing Cartel
 
 > Fire Genasi who built steam-driven airships to explore the world — and, grounded, became masters of portals.
 

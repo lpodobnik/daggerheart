@@ -1,12 +1,11 @@
 ---
+title: Selvaruun
 aliases:
 - City of Scholars
 - The City of Scholars
 tags:
 - place
 ---
-
-# Selvaruun
 
 > The City of Scholars, on the dragon's island behind the winds.
 

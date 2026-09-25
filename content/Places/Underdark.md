@@ -1,11 +1,10 @@
 ---
+title: The Underdark
 aliases:
 - The Underdark
 tags:
 - place
 ---
-
-# The Underdark
 
 > The world beneath the world, opened in the south.
 

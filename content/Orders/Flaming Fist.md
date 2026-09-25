@@ -1,11 +1,10 @@
 ---
+title: The Flaming Fist
 aliases:
 - The Flaming Fist
 tags:
 - order
 ---
-
-# The Flaming Fist
 
 > A good human order — founded, yes, by the god of chaos.
 

@@ -1,11 +1,10 @@
 ---
+title: The Sandborn
 aliases:
 - The Sandborn
 tags:
 - order
 ---
-
-# The Sandborn
 
 > The orcs' order of warriors, born in the desert for glory and war.
 

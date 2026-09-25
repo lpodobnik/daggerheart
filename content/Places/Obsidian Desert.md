@@ -1,12 +1,11 @@
 ---
+title: The Obsidian Desert
 aliases:
 - The Obsidian Desert
 - The south-eastern desert
 tags:
 - place
 ---
-
-# The Obsidian Desert
 
 > Not merely black sand, but sand of ground obsidian — volcanic glass.
 

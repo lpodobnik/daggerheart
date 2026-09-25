@@ -1,11 +1,10 @@
 ---
+title: The First Fortress
 aliases:
 - The First Fortress
 tags:
 - place
 ---
-
-# The First Fortress
 
 > A natural fortress the size of a country, walls of almost perfectly flat stone — broken open by a falling star.
 

@@ -1,11 +1,10 @@
 ---
+title: The Marble Mountains
 aliases:
 - The Marble Mountains
 tags:
 - place
 ---
-
-# The Marble Mountains
 
 > A range of regular, almost geometric forms of marble.
 

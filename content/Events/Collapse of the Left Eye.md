@@ -1,11 +1,10 @@
 ---
+title: The Collapse of the Left Eye
 aliases:
 - The Collapse of the Left Eye
 tags:
 - event
 ---
-
-# The Collapse of the Left Eye
 
 > Astralis, angry that Atlas would suppress magic, struck him in the eye.
 

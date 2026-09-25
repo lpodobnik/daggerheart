@@ -1,12 +1,11 @@
 ---
+title: Monstrosities
 aliases:
 - Monstrosity
 - The Monstrosities
 tags:
 - lore
 ---
-
-# Monstrosities
 
 > The world had no ogres before. Now it does.
 

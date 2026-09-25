@@ -1,12 +1,11 @@
 ---
+title: The Skjaldborg
 aliases:
 - The Skjaldborg
 - Crab people
 tags:
 - people
 ---
-
-# The Skjaldborg
 
 > Sentient crabs of extraordinary hardness, keepers of a sacred starfish, who become monsters every hundred years.
 

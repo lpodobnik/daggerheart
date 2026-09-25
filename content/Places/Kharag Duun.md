@@ -1,4 +1,5 @@
 ---
+title: Kharag Duun
 aliases:
 - Great Wall
 - The Great Wall
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# Kharag Duun
 
 > "The foundation of the mountain" — the dwarven city inside Sky Spear, built above a seam of star metal and now walled twice over.
 

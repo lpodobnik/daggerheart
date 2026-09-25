@@ -1,12 +1,11 @@
 ---
+title: Portals
 aliases:
 - Portal magic
 - Portal
 tags:
 - lore
 ---
-
-# Portals
 
 > Possible only near shards of the first meteor. Nearly impossible elsewhere.
 

@@ -1,12 +1,11 @@
 ---
+title: The Mages' Guild
 aliases:
 - The Mages' Guild
 - Mage's Guild
 tags:
 - order
 ---
-
-# The Mages' Guild
 
 > To study magic, write it all down, and buy up everything strange.
 

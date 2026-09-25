@@ -1,12 +1,11 @@
 ---
+title: The Third Meteor
 aliases:
 - The Third Meteor
 - The last meteor
 tags:
 - event
 ---
-
-# The Third Meteor
 
 > The Age ended as it began, with a meteor.
 

@@ -1,11 +1,10 @@
 ---
+title: Glaive Port
 aliases:
 - Glaiveport
 tags:
 - place
 ---
-
-# Glaive Port
 
 > A walled human port on the eastern lake that was conquered, starved, turned to cannibalism, and is now ruled by the masters of the fungal dead.
 

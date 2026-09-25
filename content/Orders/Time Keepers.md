@@ -1,12 +1,11 @@
 ---
+title: The Time Keepers
 aliases:
 - The Time Keepers
 - Timekeepers
 tags:
 - order
 ---
-
-# The Time Keepers
 
 > Women-led centaur sky-watchers who drew the first maps of the world and made the first calendars.
 

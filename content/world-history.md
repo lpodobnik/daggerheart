@@ -2,8 +2,6 @@
 title: A History of the World
 ---
 
-# A History of the World — so far
-
 **Status:** Three Ages: the Shaping (some 6,000 years), the Coming of the Races (some 600 years), the Age of War (about fifty years). The campaign opens at **the [[Bazaar]]**, a few months to a year after the Third Age ended, as refugees from a thousand ruined villages pour in.
 
 ---

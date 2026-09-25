@@ -1,4 +1,5 @@
 ---
+title: World's Breach
 aliases:
 - The World's Breach
 - Breach Falls
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# World's Breach
 
 > A crater as deep as a canyon and perfectly round, where the first stone fell from the sky.
 

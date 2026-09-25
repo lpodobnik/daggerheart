@@ -1,11 +1,10 @@
 ---
+title: The Tree of Life
 aliases:
 - The Tree of Life
 tags:
 - place
 ---
-
-# The Tree of Life
 
 > A vast tree in a Lothlórien forest, holding the strongest healing magic in the world.
 

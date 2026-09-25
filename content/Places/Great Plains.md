@@ -1,12 +1,11 @@
 ---
+title: The Great Plains
 aliases:
 - The Great Plains
 - Rich Soil Land
 tags:
 - place
 ---
-
-# The Great Plains
 
 > Soil so rich that whatever you plant is up the next day.
 

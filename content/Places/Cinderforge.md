@@ -1,12 +1,11 @@
 ---
+title: Cinderforge
 aliases:
 - Pillars of Magic Harnessing
 - The Pillars of Magic Harnessing
 tags:
 - place
 ---
-
-# Cinderforge
 
 > The Fire Genasi city on the northern volcano island — steam, airships, and a cracking crystal caged in coils.
 

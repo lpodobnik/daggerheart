@@ -1,4 +1,5 @@
 ---
+title: The Ballista Tower
 aliases:
 - The Ballista Tower
 - the Ballista
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Ballista Tower
 
 > A siege engine too big to aim, with a range of half the continent.
 

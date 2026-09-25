@@ -1,11 +1,10 @@
 ---
+title: The Wasteland
 aliases:
 - The Wasteland
 tags:
 - place
 ---
-
-# The Wasteland
 
 > East of the Grove, along the road into the desert — a devastated land of scattered soldiers turned bandit — and dead who will not stay down.
 

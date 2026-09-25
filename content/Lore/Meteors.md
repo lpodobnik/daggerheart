@@ -1,12 +1,11 @@
 ---
+title: Meteors
 aliases:
 - The Meteors
 - Meteor
 tags:
 - lore
 ---
-
-# Meteors
 
 > *Every Age begins and ends with the fall of a meteor of unknown origin.*
 

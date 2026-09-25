@@ -1,4 +1,5 @@
 ---
+title: The Hollow Knight
 aliases:
 - The Hollow Knight
 - The Doombringer
@@ -6,8 +7,6 @@ aliases:
 tags:
 - figure
 ---
-
-# The Hollow Knight
 
 > An empty suit of obsidian plate that stood up out of the desert sands.
 

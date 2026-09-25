@@ -1,11 +1,10 @@
 ---
+title: The Evil Alliance
 aliases:
 - The Evil Alliance
 tags:
 - event
 ---
-
-# The Evil Alliance
 
 > Corrupted Glaive Port bound to the Last Tide: the city, not the orcish race.
 

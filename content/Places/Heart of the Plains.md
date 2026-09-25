@@ -1,12 +1,11 @@
 ---
+title: Heart of the Plains
 aliases:
 - The Heart of the Plains
 - the Ballista's city
 tags:
 - place
 ---
-
-# Heart of the Plains
 
 > The human city of the Great Plains, which built a ballista too big to aim and was then broken by a meteor's quake and mudslides.
 

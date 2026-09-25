@@ -1,12 +1,11 @@
 ---
+title: The Arcane Fang
 aliases:
 - The Arcane Fang
 - usurpers of magic
 tags:
 - order
 ---
-
-# The Arcane Fang
 
 > Lizardman usurpers of magic who want every crystal for their sons.
 

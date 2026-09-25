@@ -1,4 +1,5 @@
 ---
+title: The Vengeful Paladins
 aliases:
 - The Vengeful Paladins
 - vengeful paladins
@@ -6,8 +7,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Vengeful Paladins
 
 > *The only good orc is a dead orc.*
 

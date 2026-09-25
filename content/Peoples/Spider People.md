@@ -1,11 +1,10 @@
 ---
+title: The Spider People
 aliases:
 - The Spider People
 tags:
 - people
 ---
-
-# The Spider People
 
 > Clicking weavers of vast silk webs whom no one has yet managed to speak with.
 

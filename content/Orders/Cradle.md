@@ -1,11 +1,10 @@
 ---
+title: The Cradle
 aliases:
 - The Cradle
 tags:
 - order
 ---
-
-# The Cradle
 
 > The first human order: pure survival and peace, from a people who had met no one yet.
 

@@ -1,4 +1,5 @@
 ---
+title: The Right Eye of Atlas
 aliases:
 - The Right Eye of Atlas
 - Right Eye
@@ -7,8 +8,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Right Eye of Atlas
 
 > The Perpetual Tempest — hurricane winds and wild storm, forever.
 

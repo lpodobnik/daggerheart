@@ -1,11 +1,10 @@
 ---
+title: The Settlers
 aliases:
 - The Settlers
 tags:
 - order
 ---
-
-# The Settlers
 
 > A good human order sent to find a site for a sister city.
 

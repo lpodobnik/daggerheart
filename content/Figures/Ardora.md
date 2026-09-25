@@ -1,12 +1,11 @@
 ---
+title: Ardora
 aliases:
 - Ardora the Fire Woman
 - The First Born of the Fire
 tags:
 - figure
 ---
-
-# Ardora
 
 > A woman made of flame: "the First Born of the Fire", bathing in her volcano.
 

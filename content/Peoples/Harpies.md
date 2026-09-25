@@ -1,12 +1,11 @@
 ---
+title: The Harpies
 aliases:
 - The Harpies
 - Harpy
 tags:
 - people
 ---
-
-# The Harpies
 
 > Winged bird-women of the south of Sky Spear, holy warriors against injustice.
 

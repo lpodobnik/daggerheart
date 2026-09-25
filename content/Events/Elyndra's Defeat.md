@@ -1,11 +1,10 @@
 ---
+title: Elyndra's Defeat
 aliases:
 - Elyndra's defeat
 tags:
 - event
 ---
-
-# Elyndra's Defeat
 
 > The Ice Angel came to liberate Glaive Port and was decisively defeated.
 

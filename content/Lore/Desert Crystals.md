@@ -1,12 +1,11 @@
 ---
+title: The Desert Crystals
 aliases:
 - The Desert Crystals
 - Desert crystals
 tags:
 - lore
 ---
-
-# The Desert Crystals
 
 > Small, obsidian-like crystals born of hot sand and dry air, which amplify magic.
 

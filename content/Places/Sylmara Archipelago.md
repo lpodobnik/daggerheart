@@ -1,12 +1,11 @@
 ---
+title: The Sylmara Archipelago
 aliases:
 - The Sylmara Archipelago
 - Sylmara
 tags:
 - place
 ---
-
-# The Sylmara Archipelago
 
 > The first land of the world: islands in the western sea, ringed by winds that turn every sailor back.
 

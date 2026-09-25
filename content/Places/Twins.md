@@ -1,11 +1,10 @@
 ---
+title: The Twins
 aliases:
 - The Twins
 tags:
 - place
 ---
-
-# The Twins
 
 > Two enormous cliffs with a gap between, and an inland sea between the peaks.
 

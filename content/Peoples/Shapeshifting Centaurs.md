@@ -1,11 +1,10 @@
 ---
+title: The Shapeshifting Centaurs
 aliases:
 - Shapeshifting centaurs
 tags:
 - people
 ---
-
-# The Shapeshifting Centaurs
 
 > Centaurs who, by ritual and magic, can take human form for a while.
 

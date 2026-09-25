@@ -1,4 +1,5 @@
 ---
+title: Sky Spear
 aliases:
 - Sky Spear Mountain
 - The Sky Spear
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# Sky Spear
 
 > A massif that climbs far higher than it spreads, its summit a stone spear piercing the clouds.
 

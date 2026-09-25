@@ -1,12 +1,11 @@
 ---
+title: The Left Eye of Atlas
 aliases:
 - The Left Eye of Atlas
 - Left Eye
 tags:
 - place
 ---
-
-# The Left Eye of Atlas
 
 > A near-perfect ring of mountain holding a deep lake at enormous height — until a god struck it.
 

@@ -1,11 +1,10 @@
 ---
+title: The Black Mesa
 aliases:
 - The Black Mesa
 tags:
 - place
 ---
-
-# The Black Mesa
 
 > A maze of flat-topped mountains above the desert, forever dusted black by the wind.
 

@@ -1,12 +1,11 @@
 ---
+title: The Humans
 aliases:
 - The Humans
 - Human
 tags:
 - people
 ---
-
-# The Humans
 
 > The most basic, featureless beings, but *many*. They breed easily and gladly, and spread.
 

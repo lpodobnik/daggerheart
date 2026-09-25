@@ -1,12 +1,11 @@
 ---
+title: The Centaurs
 aliases:
 - The Centaurs
 - Centaur
 tags:
 - people
 ---
-
-# The Centaurs
 
 > Nomads of the Eternal Steppe, which is perfect for riding. They beat the roads that will outlast a thousand years.
 

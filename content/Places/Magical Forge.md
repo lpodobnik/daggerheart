@@ -1,12 +1,11 @@
 ---
+title: The Magical Forge
 aliases:
 - The Magical Forge
 - Wonder Forge
 tags:
 - place
 ---
-
-# The Magical Forge
 
 > A forge in the heart of Kharag Duun, fed with magma from the mountain's depths.
 

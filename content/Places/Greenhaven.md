@@ -1,4 +1,5 @@
 ---
+title: Greenhaven
 aliases:
 - The Library
 - Library
@@ -7,8 +8,6 @@ aliases:
 tags:
 - place
 ---
-
-# Greenhaven
 
 > The central city on the River of Life, home of history, writing and the Library — and now held by dwarven wardens.
 

@@ -1,4 +1,5 @@
 ---
+title: The Stone Talus
 aliases:
 - The Stone Talus
 - Talus
@@ -7,8 +8,6 @@ aliases:
 tags:
 - figure
 ---
-
-# The Stone Talus
 
 > A walking mass of rock, standing between the hills and the mountains: "the construction worker."
 

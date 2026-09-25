@@ -1,9 +1,8 @@
 ---
+title: Ardor
 tags:
 - place
 ---
-
-# Ardor
 
 > The volcano on the northern island, where a woman of flame bathes and the earth plays its organ.
 

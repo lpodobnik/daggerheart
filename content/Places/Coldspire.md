@@ -1,9 +1,8 @@
 ---
+title: Coldspire
 tags:
 - place
 ---
-
-# Coldspire
 
 > A city of stone and ice on a raised hill in the cold north — the last refuge of the Ice Giants.
 

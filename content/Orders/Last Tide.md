@@ -1,4 +1,5 @@
 ---
+title: The Last Tide
 aliases:
 - The Last Tide
 - secluded elves
@@ -6,8 +7,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Last Tide
 
 > Water elves who went too far, turned inward, and want only to be left alone — and then to rule the seas.
 

@@ -1,4 +1,5 @@
 ---
+title: The Grove
 aliases:
 - The Grove
 - Hidden City
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Grove
 
 > A hidden elven city around the Tree of Life, known to no race, where the forest shifts and scouts walk in circles.
 

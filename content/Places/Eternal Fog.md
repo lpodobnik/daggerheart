@@ -1,12 +1,11 @@
 ---
+title: The Eternal Fog
 aliases:
 - The Eternal Fog
 - The fog-bound coast
 tags:
 - place
 ---
-
-# The Eternal Fog
 
 > A whole coast wrapped in fog — you cannot see the hand in front of your face.
 

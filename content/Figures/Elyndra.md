@@ -1,4 +1,5 @@
 ---
+title: Elyndra the Ice Angel
 aliases:
 - Elyndra the Ice Angel
 - The Ice Angel
@@ -7,8 +8,6 @@ aliases:
 tags:
 - figure
 ---
-
-# Elyndra the Ice Angel
 
 > "The Angel of Vengeance". She was beaten at Glaive Port and won at the Underdark mouth.
 

@@ -1,12 +1,11 @@
 ---
+title: The Orc War Camps
 aliases:
 - The War Camps
 - War Camps
 tags:
 - place
 ---
-
-# The Orc War Camps
 
 > The orcs' camps in the Obsidian Desert — the ones who stayed behind when the armies went to Glaive Port.
 

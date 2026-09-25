@@ -1,12 +1,11 @@
 ---
+title: The Order of the Eternal Peace
 aliases:
 - The Order of the Eternal Peace
 - Order of Eternal Peace
 tags:
 - order
 ---
-
-# The Order of the Eternal Peace
 
 > Sworn to keep the Eternal Alliance from ever breaking — by any means necessary.
 

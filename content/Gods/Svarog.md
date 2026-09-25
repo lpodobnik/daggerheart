@@ -1,11 +1,10 @@
 ---
+title: Svarog
 aliases:
 - Swarog
 tags:
 - god
 ---
-
-# Svarog
 
 > "I'm the god of chaos." Fire, the forge, and all three stones from the sky.
 

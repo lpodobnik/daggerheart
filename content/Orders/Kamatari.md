@@ -1,11 +1,10 @@
 ---
+title: The Kamatari
 aliases:
 - The Kamatari
 tags:
 - order
 ---
-
-# The Kamatari
 
 > Halfling moneylenders of the roads.
 

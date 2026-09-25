@@ -1,4 +1,5 @@
 ---
+title: Fungal Zombies
 aliases:
 - The Fungal Zombies
 - Fungal dead
@@ -6,8 +7,6 @@ aliases:
 tags:
 - lore
 ---
-
-# Fungal Zombies
 
 > Mindless and leaderless, in every stage of decay.
 

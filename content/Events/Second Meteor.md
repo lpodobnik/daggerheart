@@ -1,4 +1,5 @@
 ---
+title: The Second Meteor
 aliases:
 - The Second Meteor
 - Year zero
@@ -6,8 +7,6 @@ aliases:
 tags:
 - event
 ---
-
-# The Second Meteor
 
 > "The falling star that landed far in the west with a great roar." Year zero.
 

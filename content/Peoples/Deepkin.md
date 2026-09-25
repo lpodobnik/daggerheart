@@ -1,12 +1,11 @@
 ---
+title: The Deepkin
 aliases:
 - The Deepkin
 - Mushroom-folk
 tags:
 - people
 ---
-
-# The Deepkin
 
 > Short and stout, with bearded tentacles: true mushroom-folk of Fungorn.
 

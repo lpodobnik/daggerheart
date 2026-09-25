@@ -1,12 +1,11 @@
 ---
+title: The Great Battle of the Third Age
 aliases:
 - The Great Battle of the Third Age
 - The Great Battle
 tags:
 - event
 ---
-
-# The Great Battle of the Third Age
 
 > Glaive Port's four armies marched south for bread, and the forest swallowed them.
 

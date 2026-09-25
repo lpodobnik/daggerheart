@@ -1,12 +1,11 @@
 ---
+title: The Void Glance
 aliases:
 - The Void Glance
 - Ley-line portal
 tags:
 - event
 ---
-
-# The Void Glance
 
 > A brief glimpse into the void, felt across the whole world.
 

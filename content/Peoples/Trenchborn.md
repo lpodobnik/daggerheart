@@ -1,11 +1,10 @@
 ---
+title: The Trenchborn
 aliases:
 - The Trenchborn
 tags:
 - people
 ---
-
-# The Trenchborn
 
 > Strange beings from the sea: tentacles where the lower jaw should be, skin iridescent like the inside of a shell.
 

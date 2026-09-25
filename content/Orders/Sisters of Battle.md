@@ -1,4 +1,5 @@
 ---
+title: The Sisters of Battle
 aliases:
 - The Sisters of Battle
 - Paladinke
@@ -6,8 +7,6 @@ aliases:
 tags:
 - order
 ---
-
-# The Sisters of Battle
 
 > Winged holy warriors, sworn to fight injustice everywhere.
 

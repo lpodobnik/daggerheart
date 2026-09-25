@@ -1,11 +1,10 @@
 ---
+title: The Ember Dancers
 aliases:
 - The Ember Dancers
 tags:
 - order
 ---
-
-# The Ember Dancers
 
 > A Fire Genasi sect of dual-wielding blade dancers.
 

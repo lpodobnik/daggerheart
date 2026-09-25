@@ -1,12 +1,11 @@
 ---
+title: The Mycomancers
 aliases:
 - The Mycomancers
 - Mycomancer
 tags:
 - order
 ---
-
-# The Mycomancers
 
 > They command the fungal dead — and the dead now patrol Glaive Port's streets without harming anyone.
 

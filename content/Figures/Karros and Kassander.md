@@ -1,4 +1,5 @@
 ---
+title: Karros and Kassander
 aliases:
 - Karros
 - Kassander
@@ -6,8 +7,6 @@ aliases:
 tags:
 - figure
 ---
-
-# Karros and Kassander
 
 > A good dwarf, Karros, riding the centaur Kassander.
 

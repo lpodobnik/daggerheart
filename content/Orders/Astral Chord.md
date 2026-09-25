@@ -1,12 +1,11 @@
 ---
+title: The Astral Chord
 aliases:
 - The Astral Chord
 - Astral Cord
 tags:
 - order
 ---
-
-# The Astral Chord
 
 > Elven musicians whose bamboo instruments give tones so beautiful they stun any listener not used to them.
 

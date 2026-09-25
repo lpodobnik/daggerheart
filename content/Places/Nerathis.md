@@ -1,9 +1,8 @@
 ---
+title: Nerathis
 tags:
 - place
 ---
-
-# Nerathis
 
 > The secluded elves' city and shipyard of the warships of doom — on the island where the great crystal shattered.
 

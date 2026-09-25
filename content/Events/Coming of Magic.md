@@ -1,12 +1,11 @@
 ---
+title: The Coming of Magic
 aliases:
 - The Coming of Magic
 - Schools of Magic Crystals
 tags:
 - event
 ---
-
-# The Coming of Magic
 
 > In four places, floating crystals appeared in the air. Magic had entered the world.
 

@@ -1,4 +1,5 @@
 ---
+title: The Orcs
 aliases:
 - The Orcs
 - Orc
@@ -6,8 +7,6 @@ aliases:
 tags:
 - people
 ---
-
-# The Orcs
 
 > Raised in the desert, living for glory and war.
 

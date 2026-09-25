@@ -1,11 +1,10 @@
 ---
+title: The Elf-Spider Alliance
 aliases:
 - The Elf-Spider Alliance
 tags:
 - event
 ---
-
-# The Elf-Spider Alliance
 
 > A Switzerland, both neutral: sea-lore traded for the paths through the Misty Mountains.
 

@@ -1,4 +1,5 @@
 ---
+title: Sylvariel the Dragon
 aliases:
 - Sylvariel the Dragon
 - The Dragon
@@ -6,8 +7,6 @@ aliases:
 tags:
 - figure
 ---
-
-# Sylvariel the Dragon
 
 > The dragon of Elaruun, behind the winds.
 

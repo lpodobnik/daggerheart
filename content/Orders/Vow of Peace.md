@@ -1,11 +1,10 @@
 ---
+title: The Vow of Peace
 aliases:
 - The Vow of Peace
 tags:
 - order
 ---
-
-# The Vow of Peace
 
 > Samaritans of many races, bound to no city, who give up their possessions to help wherever there is ruin.
 

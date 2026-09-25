@@ -1,12 +1,11 @@
 ---
+title: The Coloured Sands
 aliases:
 - The Coloured Sands
 - The coloured shore
 tags:
 - place
 ---
-
-# The Coloured Sands
 
 > A small peninsula whose shores are coloured sand — "and there is a reason for it."
 

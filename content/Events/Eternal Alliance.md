@@ -1,11 +1,10 @@
 ---
+title: The Eternal Alliance
 aliases:
 - The Eternal Alliance
 tags:
 - event
 ---
-
-# The Eternal Alliance
 
 > Humans and centaurs, bound for shared prosperity and defence.
 

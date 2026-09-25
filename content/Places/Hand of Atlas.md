@@ -1,4 +1,5 @@
 ---
+title: The Hand of Atlas
 aliases:
 - The Hand of Atlas
 - The Land of Hills
@@ -6,8 +7,6 @@ aliases:
 tags:
 - place
 ---
-
-# The Hand of Atlas
 
 > Five volcanic fingers thrust up out of the sea — four fingers and a thumb, the palm beneath the waves.
 

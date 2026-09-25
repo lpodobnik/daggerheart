@@ -1,12 +1,11 @@
 ---
+title: Jungle Island
 aliases:
 - The Jungle Island
 - The great southern island
 tags:
 - place
 ---
-
-# Jungle Island
 
 > The great southern island, all of it jungle — and now a war with three sides.
 

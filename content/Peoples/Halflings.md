@@ -1,12 +1,11 @@
 ---
+title: The Halflings
 aliases:
 - The Halflings
 - Halfling
 tags:
 - people
 ---
-
-# The Halflings
 
 > A people who belong nowhere and everywhere: small nomad traders of the roads.
 

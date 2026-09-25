@@ -1,9 +1,8 @@
 ---
+title: Astralis
 tags:
 - god
 ---
-
-# Astralis
 
 > God of "Arts and Stars": star-shaped lakes, songs that stun, and worshippers by any means.
 

@@ -1,11 +1,10 @@
 ---
+title: The Magisters
 aliases:
 - The Magisters
 tags:
 - order
 ---
-
-# The Magisters
 
 > The dwarves are not only the first race but the best — and the Magisters will do anything to stay in power.
 

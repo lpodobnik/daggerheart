@@ -1,12 +1,11 @@
 ---
+title: The Fungal Plague
 aliases:
 - The Fungal Plague
 - Fungal infection
 tags:
 - event
 ---
-
-# The Fungal Plague
 
 > Out of the burned mushroom forest spread a plague: sterility, and death if untreated.
 

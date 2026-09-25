@@ -1,12 +1,11 @@
 ---
+title: Fungorn
 aliases:
 - Fungorn Forest
 - The mushroom forest
 tags:
 - place
 ---
-
-# Fungorn
 
 > A forest that is not a forest: towering giant mushrooms, where strange things happen.
 

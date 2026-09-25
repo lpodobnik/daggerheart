@@ -1,11 +1,10 @@
 ---
+title: The Twin City
 aliases:
 - The Twin City
 tags:
 - place
 ---
-
-# The Twin City
 
 > A fortress that exists only to make soldiers: everyone in the region serves a year on the wall.
 

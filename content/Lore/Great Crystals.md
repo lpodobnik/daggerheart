@@ -1,4 +1,5 @@
 ---
+title: The Great Crystals
 aliases:
 - The Great Crystals
 - Crystals of Magic
@@ -6,8 +7,6 @@ aliases:
 tags:
 - lore
 ---
-
-# The Great Crystals
 
 > Six great crystals fuel all magic, one per school. Four are known, and two are lost.
 

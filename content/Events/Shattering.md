@@ -1,11 +1,10 @@
 ---
+title: The Shattering
 aliases:
 - The Shattering
 tags:
 - event
 ---
-
-# The Shattering
 
 > Atlas poured all his power into breaking magic itself.
 

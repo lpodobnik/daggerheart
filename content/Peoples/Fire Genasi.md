@@ -1,4 +1,5 @@
 ---
+title: The Fire Genasi
 aliases:
 - The Fire Genasi
 - Flame Genasi
@@ -6,8 +7,6 @@ aliases:
 tags:
 - people
 ---
-
-# The Fire Genasi
 
 > Burning humanoids quickened from the glowing stones of Ardor's eruption. Evil, "like the Fire Nation".
 

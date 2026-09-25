@@ -1,12 +1,11 @@
 ---
+title: Melakai the Messenger
 aliases:
 - Melakai the Messenger
 - The Messenger
 tags:
 - figure
 ---
-
-# Melakai the Messenger
 
 > A leper of Glaive Port who healed himself, and then began to heal others.
 
