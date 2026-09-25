@@ -30,7 +30,7 @@ In the First Age Atlas shaped the land's bones: a hand, a spear, two eyes and a 
 
 **Age III: the Age of War**
 - c. year 600 — the Order of the Eternal Peace arms Greenhaven; the [[Fall of Glaive Port]] and the [[Great Orkish Empire]]; the [[Final End]]
-- c. year 610 — the Hollow Knight leaves the orcs for the [[Sisters of Battle]]; the [[Empty Hands]]; the Great Wall of Kharag Duun; the Bazaar made untouchable
+- c. year 610 — the Hollow Knight leaves the orcs for the [[Sisters of Battle]]; the [[Shepherds]]; the Great Wall of Kharag Duun; the Bazaar made untouchable
 - c. year 620 — [[Divine Strike]]; a dwarf army
 - c. year 630 — a lizardman army and a second war camp (Hollow Knight); the [[Shattering]]; another dwarf army (Talus)
 - c. year 640 — the dwarves take Greenhaven; dwarves become master diplomats; the [[Magisters]]

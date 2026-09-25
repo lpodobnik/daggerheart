@@ -1,13 +1,14 @@
 ---
-title: The Empty Hands
+title: The Shepherds
 aliases:
-- The Empty Hands
+- The Shepherds
+- Empty Hands
 - Vow of Peace
 tags:
 - order
 ---
 
-> Samaritans of many races, bound to no city, who give up their possessions to help wherever there is ruin. They own nothing and give everything.
+> Samaritans of many races, bound to no city, who give up their possessions to help wherever there is ruin. They own nothing and give everything; the refugees they lead call them the Shepherds.
 
 **Founded: c. year 610 (Third Age), by [[Atlas]]**
 

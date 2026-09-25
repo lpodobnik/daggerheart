@@ -31,7 +31,7 @@ Orders, sects, guilds and brotherhoods, from the oldest to the newest.
 | [[Order of the Eternal Peace]] | [[Shapeshifting Centaurs]] | [[Atlas]] | c. year 500 |  |
 | [[Threadspinners]] | [[Spider People]] | [[Astralis]] | c. year 500 |  |
 | [[Purifiers of Evil]] | [[Ice Giants]] | [[Sylvanus]] | c. year 600 | army destroyed at Glaive Port |
-| [[Empty Hands]] |  | [[Atlas]] | c. year 610 |  |
+| [[Shepherds]] |  | [[Atlas]] | c. year 610 |  |
 | [[Vengeful Paladins]] | [[Humans]] | [[Svarog]] | c. year 610 |  |
 | [[Divine Strike]] | [[Harpies]] | [[Atlas]] | c. year 620 |  |
 | [[Elf Outpost Marines]] | [[Water Elves]] | [[Astralis]] | c. year 620 |  |
@@ -44,7 +44,7 @@ Orders, sects, guilds and brotherhoods, from the oldest to the newest.
 ## By god
 
 - **[[Astralis]]** — [[Echoes of the Void]] · [[Cradle]] · [[Astral Chord]] · [[Bent Eye]] · [[Time Keepers]] · [[Star Chorus]] · [[Branded]] · [[Threadspinners]] · [[Elf Outpost Marines]] · [[Ember Dancers]]
-- **[[Atlas]]** — [[Stone Defenders]] · [[Purebred]] · [[Atlas's First]] · [[Sandborn]] · [[Sisters of Battle]] · [[Knotted Purse]] · [[Order of the Eternal Peace]] · [[Empty Hands]] · [[Divine Strike]] · [[Magisters]]
+- **[[Atlas]]** — [[Stone Defenders]] · [[Purebred]] · [[Atlas's First]] · [[Sandborn]] · [[Sisters of Battle]] · [[Knotted Purse]] · [[Order of the Eternal Peace]] · [[Shepherds]] · [[Divine Strike]] · [[Magisters]]
 - **[[Svarog]]** — [[Ardora's First]] · [[Cinderwing Cartel]] · [[Marrow Munchers]] · [[Flaming Fist]] · [[Vengeful Paladins]] · [[Mages' Guild]] · [[Mycomancers]]
 - **[[Sylvanus]]** — [[Explorers]] · [[Last Tide]] · [[Arcane Fang]] · [[Hands of Elyndra]] · [[Settlers]] · [[Purifiers of Evil]] · [[Water Druids]]
 
