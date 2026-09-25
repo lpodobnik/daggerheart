@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[halflings.webp]]
+
 > A people who belong nowhere and everywhere: small nomad traders of the roads.
 
 **Created:** c. year 500 (Second Age), by [[Atlas]] · **Order:** [[Knotted Purse]] (moneylenders)

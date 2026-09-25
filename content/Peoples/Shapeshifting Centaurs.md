@@ -6,6 +6,8 @@ tags:
 - people
 ---
 
+![[shapeshifting-centaurs.webp]]
+
 > Centaurs who, by ritual and magic, can take human form for a while.
 
 **Created:** c. year 500 (Second Age), by [[Astralis]] · a sub-race of the [[Centaurs]] · **Order:** [[Order of the Eternal Peace]]

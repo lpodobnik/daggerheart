@@ -7,6 +7,8 @@ tags:
 - figure
 ---
 
+![[melakai.webp]]
+
 > A leper of Glaive Port who healed himself, and then began to heal others.
 
 **Avatar of [[Svarog]]** · appeared c. year 630 (Third Age)
