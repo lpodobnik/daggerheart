@@ -18,6 +18,6 @@ Atlas saw the [[Centaur Roads]] crowded and the sky closed by the [[Skybreak]]. 
 They are nomad traders, everywhere. The Knotted Purse lends money at the Bazaar.
 
 ## Connections
-- [[Knotted Purse]]: their moneylenders
+- [[Knotted Purse]]: their moneylenders, who keep every debt as a knot on a cord
 - [[Bazaar]]: their market
 - [[Centaur Roads]]: their home
