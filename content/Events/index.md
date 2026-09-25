@@ -7,8 +7,8 @@ Year zero is the fall of the [[Second Meteor|second meteor]]. The First Age last
 | When | Event | By | Where |
 |---|---|---|---|
 | c. 6,000 years before year zero | [[First Meteor]] | [[Svarog]] | [[World's Breach]] |
-| year zero | [[Coming of Magic]] | [[Sylvanus]] | [[Elaruun]], [[Nerathis]], [[Frozen North]], [[Cinderforge]] |
 | year zero | [[Second Meteor]] | [[Svarog]] | [[First Fortress]] |
+| year zero | [[Coming of Magic]] | [[Sylvanus]] | [[Elaruun]], [[Nerathis]], [[Frozen North]], [[Cinderforge]] |
 | c. year 200 | [[Skybreak]] | [[Sylvanus]] |  |
 | c. year 300 | [[Void Glance]] | [[Astralis]] | [[Twins]] |
 | c. year 500 | [[Eternal Alliance]] | [[Astralis]], [[Atlas]] | [[Greenhaven]] |
