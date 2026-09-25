@@ -8,7 +8,7 @@ tags:
 - people
 ---
 
-![[fire-genasi.webp]]
+![[genasi.webp]]
 
 > Burning humanoids quickened from the glowing stones of Ardor's eruption. Evil, "like the Fire Nation".
 

@@ -26,7 +26,7 @@ In the First Age Atlas shaped the land's bones: a hand, a spear, two eyes and a 
 - c. year 200 — the Doombringer ([[Hollow Knight]]); [[Orcs]] and the [[Sandborn]]
 - c. year 300 — orcs become masters of war beasts; an army in the south-eastern desert; [[Coldspire]]
 - c. year 400 — [[Harpies]] and the [[Sisters of Battle]]; the [[Orc War Camps]]; the Library in [[Greenhaven]]
-- c. year 500 — [[Halflings]] and the [[Kamatari]]; a second orc army (Doombringer); the [[Order of the Eternal Peace]]; the [[Bazaar]] (via the Talus)
+- c. year 500 — [[Halflings]] and the [[Knotted Purse]]; a second orc army (Doombringer); the [[Order of the Eternal Peace]]; the [[Bazaar]] (via the Talus)
 
 **Age III: the Age of War**
 - c. year 600 — the Order of the Eternal Peace arms Greenhaven; the [[Fall of Glaive Port]] and the [[Great Orkish Empire]]; the [[Final End]]

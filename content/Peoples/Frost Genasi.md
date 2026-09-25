@@ -6,7 +6,7 @@ tags:
 - people
 ---
 
-![[frost-genasi.webp]]
+![[genasi.webp]]
 
 > Genasi who renounced fire, embraced ice, and lost their cinder to the cold.
 

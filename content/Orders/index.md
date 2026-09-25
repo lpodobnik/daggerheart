@@ -27,7 +27,7 @@ Orders, sects, guilds and brotherhoods, from the oldest to the newest.
 | [[Settlers]] | [[Humans]] | [[Sylvanus]] | c. year 400 |  |
 | [[Sisters of Battle]] | [[Harpies]] | [[Atlas]] | c. year 400 | holy warriors against injustice, led by the Hollow Knight |
 | [[Branded]] |  | [[Astralis]] | c. year 500 | still hold Glaive Port's waters |
-| [[Kamatari]] | [[Halflings]] | [[Atlas]] | c. year 500 | lending money at the Bazaar |
+| [[Knotted Purse]] | [[Halflings]] | [[Atlas]] | c. year 500 | lending money at the Bazaar |
 | [[Order of the Eternal Peace]] | [[Shapeshifting Centaurs]] | [[Atlas]] | c. year 500 |  |
 | [[Threadspinners]] | [[Spider People]] | [[Astralis]] | c. year 500 |  |
 | [[Purifiers of Evil]] | [[Ice Giants]] | [[Sylvanus]] | c. year 600 | army destroyed at Glaive Port |
@@ -44,7 +44,7 @@ Orders, sects, guilds and brotherhoods, from the oldest to the newest.
 ## By god
 
 - **[[Astralis]]** — [[Echoes of the Void]] · [[Cradle]] · [[Astral Chord]] · [[Bent Eye]] · [[Time Keepers]] · [[Star Chorus]] · [[Branded]] · [[Threadspinners]] · [[Elf Outpost Marines]] · [[Ember Dancers]]
-- **[[Atlas]]** — [[Stone Defenders]] · [[Purebred]] · [[Atlas's First]] · [[Sandborn]] · [[Sisters of Battle]] · [[Kamatari]] · [[Order of the Eternal Peace]] · [[Vow of Peace]] · [[Divine Strike]] · [[Magisters]]
+- **[[Atlas]]** — [[Stone Defenders]] · [[Purebred]] · [[Atlas's First]] · [[Sandborn]] · [[Sisters of Battle]] · [[Knotted Purse]] · [[Order of the Eternal Peace]] · [[Vow of Peace]] · [[Divine Strike]] · [[Magisters]]
 - **[[Svarog]]** — [[Ardora's First]] · [[Cinderwing Cartel]] · [[Marrow Munchers]] · [[Flaming Fist]] · [[Vengeful Paladins]] · [[Mages' Guild]] · [[Mycomancers]]
 - **[[Sylvanus]]** — [[Explorers]] · [[Last Tide]] · [[Arcane Fang]] · [[Hands of Elyndra]] · [[Settlers]] · [[Purifiers of Evil]] · [[Water Druids]]
 

@@ -12,7 +12,7 @@ tags:
 **Made untouchable:** c. year 610 (Third Age), by [[Atlas]]
 
 ## Story
-Around year 500, late in the Second Age, [[Atlas]] saw the [[Centaur Roads]] crowded and the sky closed by the [[Skybreak]], and filled the gap with the [[Halflings]] — small nomad traders of the roads — and among them the [[Kamatari]], an order of moneylenders. In the same years, his [[Stone Talus]] founded a city at the point where the roads cross the river, with no walls at all: the Bazaar, one enormous market where halflings, [[Centaurs|centaurs]], [[Humans|humans]], [[Ice Giants|giants]] and [[Dwarves|dwarves]] trade, and caravans leave in every direction.
+Around year 500, late in the Second Age, [[Atlas]] saw the [[Centaur Roads]] crowded and the sky closed by the [[Skybreak]], and filled the gap with the [[Halflings]] — small nomad traders of the roads — and among them the [[Knotted Purse]], an order of moneylenders. In the same years, his [[Stone Talus]] founded a city at the point where the roads cross the river, with no walls at all: the Bazaar, one enormous market where halflings, [[Centaurs|centaurs]], [[Humans|humans]], [[Ice Giants|giants]] and [[Dwarves|dwarves]] trade, and caravans leave in every direction.
 
 From its founding, the [[Dwarves|dwarves]] of [[Kharag Duun]] have sold [[Star Metal|star metal]] here.
 
@@ -25,7 +25,7 @@ Around year 630, [[Svarog]] — delighted by the chaos of the [[Shattering]] and
 ## Now
 A few months to a year after the [[Third Meteor|third meteor]], the Bazaar is the one safe crossroads left, drowning in refugees from a thousand ruined villages.
 - **The Mages' Guild** buys crystal shards, [[Meteors|meteor]] fragments and curiosities — and since the [[Shattering]] the [[Great Crystals|great crystals]] are cracking.
-- **The Kamatari** lend money.
+- **The Knotted Purse** lends money.
 - **The plague** has already been through.
 - [[Mycomancers|Mycomancer]] agents, disguised as fungus, slipped out of Glaive Port to seed hidden cells in other cities — perhaps here.
 
@@ -33,7 +33,7 @@ A few months to a year after the [[Third Meteor|third meteor]], the Bazaar is th
 - [[Stone Talus]] — founded it; "the construction worker"
 - [[Atlas]] — made it untouchable
 - [[Centaur Roads]] — where the roads cross the river
-- [[Halflings]] / [[Kamatari]] — road traders and moneylenders
+- [[Halflings]] / [[Knotted Purse]] — road traders and moneylenders
 - [[Mages' Guild]] — Svarog's scholars and shard-buyers, based here
 - [[Fungal Plague]] — passed through, second only to Glaive Port
 - [[Mycomancers]] — hidden cells, possibly here

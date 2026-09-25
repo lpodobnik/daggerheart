@@ -31,7 +31,7 @@ The peoples of the world, in the order they came into it.
 - **[[Dwarves]]** — [[Magisters]] · [[Stone Defenders]]
 - **[[Fire Genasi]]** — [[Ardora's First]] · [[Cinderwing Cartel]] · [[Ember Dancers]]
 - **[[Goblins]]** — [[Marrow Munchers]]
-- **[[Halflings]]** — [[Kamatari]]
+- **[[Halflings]]** — [[Knotted Purse]]
 - **[[Harpies]]** — [[Divine Strike]] · [[Sisters of Battle]]
 - **[[Humans]]** — [[Cradle]] · [[Flaming Fist]] · [[Mages' Guild]] · [[Mycomancers]] · [[Settlers]] · [[Star Chorus]] · [[Vengeful Paladins]]
 - **[[Ice Giants]]** — [[Hands of Elyndra]] · [[Purifiers of Evil]]
