@@ -10,7 +10,7 @@ The avatars of the gods — myths walking — and others of note.
 | [[Elyndra]] | [[Sylvanus]] |  |
 | [[Hollow Knight]] | [[Atlas]] |  |
 | [[Karros and Kassander]] | [[Astralis]] |  |
-| [[Melakai]] | [[Svarog]] | [[Glaive Port]] |
+| [[Malakai]] | [[Svarog]] | [[Glaive Port]] |
 | [[Silver One]] | [[Astralis]] |  |
 | [[Stone Talus]] | [[Atlas]] |  |
 | [[Sylvariel]] | [[Sylvanus]] | [[Elaruun]] |

@@ -34,8 +34,8 @@ Svarog let chaos choose his place. He struck the continent with something from t
 - c. year 600 — a Genasi army on their island; the Marrow Munchers' tunnels
 - c. year 610 — the [[Vengeful Paladins]]; Glaive Port corrupted to cannibalism (his avatar)
 - c. year 620 — the [[Fungal Plague]]; another Glaive Port army; famine and a fourth army, sent south to the [[Great Battle of the Third Age]]
-- c. year 630 — [[Melakai]]; the [[Mycomancers]]; the [[Mages' Guild]]
-- c. year 640 — Melakai's defensive army; the Pillars of Magic Harnessing at Cinderforge (via Ardora); Mycomancer agents sent out; the [[Water Elves]] corrupted into decadence; the [[Third Meteor]]
+- c. year 630 — [[Malakai]]; the [[Mycomancers]]; the [[Mages' Guild]]
+- c. year 640 — Malakai's defensive army; the Pillars of Magic Harnessing at Cinderforge (via Ardora); Mycomancer agents sent out; the [[Water Elves]] corrupted into decadence; the [[Third Meteor]]
 
 ## Connections
 - [[Meteors]]: all three were his
@@ -43,4 +43,4 @@ Svarog let chaos choose his place. He struck the continent with something from t
 - [[Atlas]]: answered his mountain with a river
 - [[Portals]]: his Cartel's obsession
 
-Open: [?] which avatar corrupted Glaive Port c. year 610 (Melakai only appears c. year 630).
+Open: [?] which avatar corrupted Glaive Port c. year 610 (Malakai only appears c. year 630).

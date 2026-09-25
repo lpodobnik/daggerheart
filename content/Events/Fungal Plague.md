@@ -17,7 +17,7 @@ It spread from the burned part of [[Fungorn]]. The acute phase brings sterility,
 ## Consequences
 - Famine came to Glaive Port as the fungus took livestock, fish and crops. It raised a fourth army and marched south ([[Great Battle of the Third Age]]).
 - The dead of that battlefield rose as [[Fungal Zombies]] (c. year 630).
-- [[Melakai]], a leper who healed himself, founded the [[Mycomancers]], who command the fungal dead.
+- [[Malakai]], a leper who healed himself, founded the [[Mycomancers]], who command the fungal dead.
 
 ## Now
 It is active. The plague has already been through the Bazaar.

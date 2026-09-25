@@ -23,19 +23,19 @@ tags:
 
 **Plague, famine, and the four armies (c. year 620).** The [[Fungal Plague]] was worst here. Glaive Port raised a third army; famine came as the fungus took livestock, fish and crops, and a fourth army rose. All four marched south for bread against the [[Grove]] — the [[Great Battle of the Third Age]] — and were lost: fewer than half died, the rest scattered as bandits across the [[Wasteland]].
 
-**Melakai and the Mycomancers (c. year 630).** A leper healed himself and began to heal others — [[Melakai]] the Messenger, [[Svarog]]'s avatar. He founded the [[Mycomancers]] — humans, orcs, anyone — who command the [[Fungal Zombies|fungal dead]]. They became the ruling class, and the dead now patrol the streets without harming anyone.
+**Malakai and the Mycomancers (c. year 630).** A leper healed himself and began to heal others — [[Malakai]] the Messenger, [[Svarog]]'s avatar. He founded the [[Mycomancers]] — humans, orcs, anyone — who command the [[Fungal Zombies|fungal dead]]. They became the ruling class, and the dead now patrol the streets without harming anyone.
 
-**The siege (c. year 640).** [[Melakai]] raised a defensive army. The [[Deepkin]] — for whom raising corpses with fungus is a travesty, and whose forest had burned — laid siege, and the city held: the [[Siege of Glaive Port]], a siege without end ([[Astralis]]). Mycomancer agents slipped out disguised as fungus to seed hidden cells in other cities.
+**The siege (c. year 640).** [[Malakai]] raised a defensive army. The [[Deepkin]] — for whom raising corpses with fungus is a travesty, and whose forest had burned — laid siege, and the city held: the [[Siege of Glaive Port]], a siege without end ([[Astralis]]). Mycomancer agents slipped out disguised as fungus to seed hidden cells in other cities.
 
 ## Now
-Mostly human; the orcs are the nominal rulers, the Mycomancers the real ones, through religion. The fungal dead patrol the streets. Besieged without end by the Deepkin. The Branded still hold its waters. Melakai lives here, old and decrepit but alive. Its four armies went out and died. The city may be renamed.
+Mostly human; the orcs are the nominal rulers, the Mycomancers the real ones, through religion. The fungal dead patrol the streets. Besieged without end by the Deepkin. The Branded still hold its waters. Malakai lives here, old and decrepit but alive. Its four armies went out and died. The city may be renamed.
 
 ## Connections
 - [[Svarog]] — ordered its founding; corrupted it; its avatar rules it
 - [[Branded]] — tar-necked defenders of its waters
 - [[Hollow Knight]] / [[Orcs]] — conquerors, then abandoned
 - [[Elyndra]] / [[Ice Giants]] — failed liberators; the Corpse Field
-- [[Melakai]] / [[Mycomancers]] — the real rulers now
+- [[Malakai]] / [[Mycomancers]] — the real rulers now
 - [[Deepkin]] — the endless besiegers
 - [[Last Tide]] — the Evil Alliance
 - [[Vengeful Paladins]] — born from its refugees
