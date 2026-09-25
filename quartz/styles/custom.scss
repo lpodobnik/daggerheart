@@ -1,0 +1,13 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// Chronicles styling: slightly larger serif body, restrained headings, tidy tables
+body { font-size: 1.12rem; }
+h1, h2, h3, .page-title { letter-spacing: 0.02em; }
+.page-title { font-size: 1.35rem; }
+article table { font-size: 0.95rem; }
+article table th { font-family: var(--headerFont); font-weight: 600; font-size: 0.85rem; letter-spacing: 0.03em; }
+article blockquote { font-style: italic; border-left-color: var(--tertiary); }
+article table td, article table th { line-height: 1.35; padding: 0.4rem 0.6rem; vertical-align: top; }
+article table td:first-child { white-space: nowrap; }

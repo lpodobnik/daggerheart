@@ -1,0 +1,24 @@
+---
+aliases:
+- The Halflings
+- Halfling
+tags:
+- people
+---
+
+# The Halflings
+
+> A people who belong nowhere and everywhere: small nomad traders of the roads.
+
+**Created:** c. year 500 (Second Age), by [[Atlas]] · **Order:** [[Kamatari]] (moneylenders)
+
+## Story
+Atlas saw the [[Centaur Roads]] crowded and the sky closed by the [[Skybreak]]. He filled the gap with the halflings, neutral nomad traders of the roads. Among them are the [[Kamatari]], an order of moneylenders. They trade at the [[Bazaar]] alongside centaurs, humans, giants and dwarves.
+
+## Now
+They are nomad traders, everywhere. The Kamatari lend money at the Bazaar.
+
+## Connections
+- [[Kamatari]]: their moneylenders
+- [[Bazaar]]: their market
+- [[Centaur Roads]]: their home
