@@ -7,6 +7,8 @@ tags:
 - figure
 ---
 
+![[silver-one.webp]]
+
 > A silver shape risen out of Star Lake: humanoid before there were humanoids, with no face and no sex.
 
 **Avatar of [[Astralis]]** · appeared c. 1,000 years before year zero, in the First Age

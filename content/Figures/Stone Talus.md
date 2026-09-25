@@ -9,6 +9,8 @@ tags:
 - figure
 ---
 
+![[stone-talus.webp]]
+
 > A walking mass of rock, standing between the hills and the mountains: "the construction worker."
 
 **Avatar of [[Atlas]]** · appeared c. 3,000 years before year zero, in the First Age

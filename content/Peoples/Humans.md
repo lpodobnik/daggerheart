@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[humans.webp]]
+
 > The most basic, featureless beings, but *many*. They breed easily and gladly, and spread.
 
 **Created:** year zero (Second Age), by [[Astralis]] · **Orders:** [[Cradle]] · [[Star Chorus]] · [[Flaming Fist]] · [[Settlers]] · [[Mages' Guild]] · [[Mycomancers]] · [[Vengeful Paladins]]

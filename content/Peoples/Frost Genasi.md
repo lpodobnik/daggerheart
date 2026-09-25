@@ -6,6 +6,8 @@ tags:
 - people
 ---
 
+![[genasi.webp]]
+
 > Genasi who renounced fire, embraced ice, and lost their cinder to the cold.
 
 **Created:** c. year 200 (Second Age), by [[Svarog]] · a sub-race of the [[Fire Genasi]]

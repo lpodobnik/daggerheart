@@ -8,6 +8,8 @@ tags:
 - figure
 ---
 
+![[sylvariel.webp]]
+
 > The dragon of Elaruun, behind the winds.
 
 **Avatar of [[Sylvanus]]** · appeared c. 2,000 years before year zero (First Age), on [[Elaruun]]

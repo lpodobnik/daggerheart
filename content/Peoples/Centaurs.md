@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[time-keepers.webp]]
+
 > Nomads of the Eternal Steppe, which is perfect for riding. They beat the roads that will outlast a thousand years.
 
 **Created:** year zero (Second Age), by [[Atlas]] · **Orders:** [[Purebred]] · [[Time Keepers]]

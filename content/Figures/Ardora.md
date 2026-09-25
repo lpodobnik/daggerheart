@@ -7,6 +7,8 @@ tags:
 - figure
 ---
 
+![[ardora.webp]]
+
 > A woman made of flame: "the First Born of the Fire", bathing in her volcano.
 
 **Avatar of [[Svarog]]** · appeared c. 3,000 years before year zero (First Age), answering Atlas's Talus

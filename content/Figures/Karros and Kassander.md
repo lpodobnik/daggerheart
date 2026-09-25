@@ -8,6 +8,8 @@ tags:
 - figure
 ---
 
+![[karros-and-kassander.webp]]
+
 > A good dwarf, Karros, riding the centaur Kassander.
 
 **Avatar of [[Astralis]]** · appeared c. year 400 (Second Age), in the centre of the continent

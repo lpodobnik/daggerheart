@@ -8,6 +8,8 @@ tags:
 - people
 ---
 
+![[lizardmen.webp]]
+
 > Wholly tribal and evil, ruled by nobles who killed every sibling in their clutch.
 
 **Created:** c. year 100 (Second Age), by [[Atlas]], in [[Sylvanus]]'s jungles · **Orders:** [[Atlas's First]] · [[Arcane Fang]]

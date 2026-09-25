@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[ice-giants.webp]]
+
 > Good healers out of the Frozen North, broken at Glaive Port and now rare.
 
 **Created:** c. year 100 (Second Age), by [[Sylvanus]] · **Orders:** [[Hands of Elyndra]] · [[Purifiers of Evil]]

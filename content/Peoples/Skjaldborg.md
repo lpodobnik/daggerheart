@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[skjaldborg.webp]]
+
 > Sentient crabs of extraordinary hardness, keepers of a sacred starfish, who become monsters every hundred years.
 
 **Created:** c. year 300 (Second Age), by [[Svarog]], in the sea

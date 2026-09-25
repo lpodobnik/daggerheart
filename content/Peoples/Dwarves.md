@@ -10,6 +10,8 @@ tags:
 - people
 ---
 
+![[dwarves.webp]]
+
 > "The Children of Stone": struck from the Talus by lightning, the first and, they say, the best of races.
 
 **Created:** c. 3,000 years before year zero (First Age), by [[Atlas]] · **Orders:** [[Stone Defenders]] · [[Magisters]]

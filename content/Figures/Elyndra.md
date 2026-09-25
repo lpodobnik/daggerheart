@@ -9,6 +9,8 @@ tags:
 - figure
 ---
 
+![[elyndra.webp]]
+
 > "The Angel of Vengeance". She was beaten at Glaive Port and won at the Underdark mouth.
 
 **Avatar of [[Sylvanus]]** · appeared c. year 400 (Second Age) · female, good

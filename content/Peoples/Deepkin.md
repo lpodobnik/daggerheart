@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[deepkin.webp]]
+
 > Short and stout, with bearded tentacles: true mushroom-folk of Fungorn.
 
 **Created:** c. year 100 (Second Age), by [[Astralis]] · born of [[Dwarves|dwarf]] and [[Trenchborn]] explorers · **Order:** [[Bent Eye]]

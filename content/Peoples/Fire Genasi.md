@@ -8,6 +8,8 @@ tags:
 - people
 ---
 
+![[genasi.webp]]
+
 > Burning humanoids quickened from the glowing stones of Ardor's eruption. Evil, "like the Fire Nation".
 
 **Created:** c. 3,000 years before year zero (First Age), by [[Svarog]] · **Orders:** [[Ardora's First]] · [[Cinderwing Cartel]] · [[Ember Dancers]]

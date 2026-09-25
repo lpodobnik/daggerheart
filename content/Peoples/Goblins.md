@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[goblins.webp]]
+
 > Evil raiders out of the south-eastern mountains.
 
 **Created:** c. year 200 (Second Age), by [[Svarog]] · **Order:** [[Marrow Munchers]] (priests)

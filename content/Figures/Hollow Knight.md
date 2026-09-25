@@ -8,6 +8,8 @@ tags:
 - figure
 ---
 
+![[hollow-knight.webp]]
+
 > An empty suit of obsidian plate that stood up out of the desert sands.
 
 **Avatar of [[Atlas]]** · appeared c. year 200 (Second Age) · first called **the Doombringer**

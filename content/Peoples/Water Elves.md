@@ -8,6 +8,8 @@ tags:
 - people
 ---
 
+![[water-elves.webp]]
+
 > Skilled sailors who spread through the islands along the cold currents. Once neutral, now decadent.
 
 **Created:** c. 2,000 years before year zero (First Age), by [[Sylvanus]] · **Orders:** [[Explorers]] · [[Last Tide]] · [[Astral Chord]] · [[Elf Outpost Marines]] · [[Water Druids]]

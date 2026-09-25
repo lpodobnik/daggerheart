@@ -7,6 +7,8 @@ tags:
 - people
 ---
 
+![[harpies.webp]]
+
 > Winged bird-women of the south of Sky Spear, holy warriors against injustice.
 
 **Created:** c. year 400 (Second Age), by [[Atlas]] · **Orders:** [[Sisters of Battle]] · [[Divine Strike]]

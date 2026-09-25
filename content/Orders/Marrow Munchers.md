@@ -6,6 +6,8 @@ tags:
 - order
 ---
 
+![[goblins.webp]]
+
 > Goblin priests who smear themselves in slime from the fallen star and turned the mountains to Swiss cheese.
 
 **Founded: c. year 200 (Second Age), by [[Svarog]], with the Goblins**

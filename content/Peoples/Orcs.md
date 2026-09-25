@@ -8,6 +8,8 @@ tags:
 - people
 ---
 
+![[orcs.webp]]
+
 > Raised in the desert, living for glory and war.
 
 **Created:** c. year 200 (Second Age), by [[Atlas]] · **Order:** [[Sandborn]]

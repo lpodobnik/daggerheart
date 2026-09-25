@@ -7,6 +7,8 @@ tags:
 - order
 ---
 
+![[time-keepers.webp]]
+
 > Women-led centaur sky-watchers who drew the first maps of the world and made the first calendars.
 
 **Founded: c. year 100 (Second Age), by [[Astralis]], among [[Atlas]]'s Centaurs**

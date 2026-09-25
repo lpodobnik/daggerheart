@@ -6,6 +6,8 @@ tags:
 - people
 ---
 
+![[trenchborn.webp]]
+
 > Strange beings from the sea: tentacles where the lower jaw should be, skin iridescent like the inside of a shell.
 
 **Created:** c. 1,000 years before year zero (First Age), by [[Astralis]] · **Order:** [[Echoes of the Void]]
