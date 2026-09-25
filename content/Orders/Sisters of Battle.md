@@ -27,5 +27,3 @@ Holy warriors against injustice, with the Hollow Knight at their head.
 - [[Great Orkish Empire]] — the war their leader abandoned
 
 Open: [?] where they fight now.
-
-*Name:* "Paladinke" was a table joke; the order is the Sisters of Battle (Luka, 2026-09-25).
