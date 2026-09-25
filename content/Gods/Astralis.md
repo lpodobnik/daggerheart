@@ -26,7 +26,7 @@ Astralis filled the First Age with strange beauty: [[Star Lake]], the [[Obsidian
 - c. year 200 — the [[Centaur Roads]] and their waystations
 - c. year 300 — the [[Void Glance]]; the [[Star Chorus]]
 - c. year 400 — [[Karros and Kassander]]; [[Heart of the Plains]]; history and writing for [[Greenhaven]]
-- c. year 500 — [[Spider People]] and the [[Threadspinners]]; the [[Eternal Alliance]] and the [[Shapeshifting Centaurs]]; the [[Branded]] of [[Glaive Port]]
+- c. year 500 — [[Spider People]] and the [[Threadspinners]]; the [[Eternal Alliance]]; the [[Branded]] of [[Glaive Port]]
 
 **Age III: the Age of War**
 - c. year 600 — an army in Heart of the Plains; corrupted Glaive Port's orc rulers

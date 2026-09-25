@@ -21,7 +21,7 @@ The peoples of the world, in the order they came into it.
 | [[Skjaldborg]] | [[Svarog]] | good |  | c. year 300 |
 | [[Harpies]] | [[Atlas]] | good | [[Sky Spear]] | c. year 400 |
 | [[Halflings]] | [[Atlas]] | neutral | [[Centaur Roads]] | c. year 500 |
-| [[Shapeshifting Centaurs]] | [[Astralis]] | good |  | c. year 500 |
+| [[Shapeshifting Centaurs]] | [[Atlas]] | good |  | c. year 500 |
 | [[Spider People]] | [[Astralis]] | neutral | [[Misty Mountains]] | c. year 500 |
 
 ## Their orders
