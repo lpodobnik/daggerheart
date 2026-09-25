@@ -1,26 +1,133 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ─────────────────────────────────────────────────────────────
+//  Chronicles of the Four Gods — "illuminated chronicle" styling
+// ─────────────────────────────────────────────────────────────
 
-// Chronicles styling: slightly larger serif body, restrained headings, tidy tables
-body { font-size: 1.12rem; }
-h1, h2, h3, .page-title { letter-spacing: 0.02em; }
+// Parchment: a faint paper grain (inline SVG noise) over a warm vignette.
+$grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.35  0 0 0 0 0.25  0 0 0 0 0.12  0 0 0 0.09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+
+html body {
+  background-color: var(--light);
+  background-image:
+    $grain,
+    radial-gradient(ellipse at 50% 20%, rgba(255, 250, 235, 0.55), rgba(0, 0, 0, 0) 60%),
+    radial-gradient(ellipse at 50% 50%, rgba(0, 0, 0, 0) 55%, rgba(110, 70, 20, 0.16) 100%);
+  background-attachment: fixed;
+  font-size: 1.16rem;
+}
+:root[saved-theme="dark"] body {
+  background-image:
+    $grain,
+    radial-gradient(ellipse at 50% 15%, rgba(255, 170, 80, 0.07), rgba(0, 0, 0, 0) 55%),
+    radial-gradient(ellipse at 50% 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.45) 100%);
+}
+
+// ── Headings ────────────────────────────────────────────────
+h1, h2, h3, h4, .page-title { letter-spacing: 0.03em; }
 .page-title { font-size: 1.35rem; }
-article table { font-size: 0.95rem; }
-article table th { font-family: var(--headerFont); font-weight: 600; font-size: 0.85rem; letter-spacing: 0.03em; }
-article blockquote { font-style: italic; border-left-color: var(--tertiary); }
+.page-title a { color: var(--secondary); }
+
+h1.article-title {
+  text-align: center;
+  font-size: 2.3rem;
+  margin-bottom: 0.2rem;
+  color: var(--dark);
+  &::after {
+    content: "✦ ❦ ✦";
+    display: block;
+    font-size: 1rem;
+    letter-spacing: 0.6em;
+    color: var(--tertiary);
+    margin-top: 0.5rem;
+  }
+}
+
+article h2 {
+  color: var(--secondary);
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.15rem;
+  &::before { content: "❧ "; color: var(--tertiary); font-size: 0.85em; }
+}
+article h3 { color: var(--secondary); }
+
+// ── Drop cap on the first paragraph of the first section ────
+article h2:first-of-type + p::first-letter {
+  float: left;
+  font-family: var(--headerFont);
+  font-size: 3.6em;
+  line-height: 0.82;
+  padding: 0.08em 0.1em 0 0;
+  margin-right: 0.05em;
+  color: var(--secondary);
+  text-shadow: 1px 1px 0 var(--lightgray);
+}
+
+// ── Links: ink, not buttons ─────────────────────────────────
+a.internal {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+  border-bottom: 1px dotted var(--tertiary);
+  &:hover { border-bottom-style: solid; color: var(--tertiary); }
+}
+
+// ── The hook line under each title ──────────────────────────
+article blockquote {
+  border-left: none;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.12em;
+  color: var(--darkgray);
+  margin: 0.4rem 2rem 1.4rem;
+  padding: 0;
+  &::before, &::after { color: var(--tertiary); font-style: normal; }
+  &::before { content: "— "; }
+  &::after { content: " —"; }
+  p { display: inline; margin: 0; }
+}
+
+// ── Dividers ────────────────────────────────────────────────
+article hr {
+  border: none;
+  height: auto;
+  background: none;
+  text-align: center;
+  margin: 2rem 0;
+  &::after { content: "⁂"; color: var(--tertiary); font-size: 1.3rem; }
+}
+
+// ── Tables: ledger style ────────────────────────────────────
+article table { font-size: 0.97rem; border-collapse: collapse; }
+article table th {
+  font-family: var(--headerFont);
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.05em;
+  color: var(--secondary);
+  border-bottom: 2px solid var(--tertiary);
+}
 article table td, article table th { line-height: 1.35; padding: 0.4rem 0.6rem; vertical-align: top; }
 article table td:first-child { white-space: nowrap; }
+article table tr:nth-child(even) td { background-color: var(--highlight); }
 
-// Portrait at the top of a note (from `image:` in the note's properties): float right on wide screens
+// ── Portraits: framed plates ────────────────────────────────
 article > p:first-of-type:has(> img:only-child) {
   float: right;
-  width: 42%;
-  max-width: 380px;
-  margin: 0.2rem 0 1rem 1.5rem;
-  img { width: 100%; border-radius: 6px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25); margin: 0; }
+  width: 40%;
+  max-width: 360px;
+  margin: 0.2rem 0 1rem 1.6rem;
+  padding: 7px;
+  background: var(--light);
+  border: 1px solid var(--tertiary);
+  outline: 3px double var(--tertiary);
+  outline-offset: 3px;
+  box-shadow: 0 6px 18px rgba(60, 35, 10, 0.28);
+  img { width: 100%; display: block; margin: 0; border-radius: 0; }
 }
 @media (max-width: 800px) {
-  article > p:first-of-type:has(> img:only-child) { float: none; width: 100%; max-width: none; margin: 0 0 1rem 0; }
+  article > p:first-of-type:has(> img:only-child) { float: none; width: auto; max-width: none; margin: 0.5rem 0 1.4rem 0; }
 }
-article h2 { clear: none; }
+
+// ── Bold labels (Founded:, Created:) in small caps ──────────
+article > p > strong:first-child { font-variant: small-caps; letter-spacing: 0.03em; }
