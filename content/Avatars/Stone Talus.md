@@ -6,7 +6,7 @@ aliases:
 - The Talus
 - Stone Giant
 tags:
-- figure
+- avatar
 ---
 
 ![[stone-talus.webp]]

@@ -5,7 +5,7 @@ aliases:
 - The Doombringer
 - Doombringer
 tags:
-- figure
+- avatar
 ---
 
 ![[hollow-knight.webp]]

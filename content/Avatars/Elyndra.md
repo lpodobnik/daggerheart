@@ -6,7 +6,7 @@ aliases:
 - Anđela
 - The Angel of Vengeance
 tags:
-- figure
+- avatar
 ---
 
 ![[elyndra.webp]]

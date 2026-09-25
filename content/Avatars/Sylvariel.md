@@ -5,7 +5,7 @@ aliases:
 - The Dragon
 - Sylvan Dragon
 tags:
-- figure
+- avatar
 ---
 
 ![[sylvariel.webp]]

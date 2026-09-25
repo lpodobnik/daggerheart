@@ -4,7 +4,7 @@ aliases:
 - Ardora the Fire Woman
 - The First Born of the Fire
 tags:
-- figure
+- avatar
 ---
 
 ![[ardora.webp]]

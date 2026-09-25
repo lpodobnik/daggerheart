@@ -4,7 +4,7 @@ aliases:
 - The Silver One
 - Sylver Surfer
 tags:
-- figure
+- avatar
 ---
 
 ![[silver-one.webp]]

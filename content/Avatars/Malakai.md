@@ -4,7 +4,7 @@ aliases:
 - Malakai the Messenger
 - The Messenger
 tags:
-- figure
+- avatar
 ---
 
 ![[malakai.webp]]

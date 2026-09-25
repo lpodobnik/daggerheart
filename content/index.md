@@ -14,7 +14,7 @@ Start with **[[world-history|A History of the World]]** — the whole story of t
 - **[[Places/index|Places]]** — cities, wonders and the land
 - **[[Events/index|Events]]** — the timeline of the Ages
 - **[[Lore/index|Lore]]** — crystals, meteors, portals and time
-- **[[Figures/index|Figures]]** — the avatars and others of note
+- **[[Avatars/index|Avatars]]** — the gods' hands in the world
 
 ## Where things stand
 

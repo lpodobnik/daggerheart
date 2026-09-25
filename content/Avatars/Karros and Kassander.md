@@ -5,7 +5,7 @@ aliases:
 - Kassander
 - Karos
 tags:
-- figure
+- avatar
 ---
 
 ![[karros-and-kassander.webp]]
