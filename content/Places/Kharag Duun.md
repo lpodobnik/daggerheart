@@ -17,7 +17,7 @@ The [[Dwarves]] were born of the [[Stone Talus]] shattered by lightning from [[S
 
 Around year 100, the dwarves learned to meld magic from the crystals with star metal, and the Talus raised the [[Magical Forge]] here, fed with magma from the mountain's depths.
 
-**The Great Wall.** The dwarves sat idle for five centuries but for selling star metal at the [[Bazaar]]. Around year 610, they looked at the chaos, declared themselves the first and best of races, and walled Kharag Duun twice over: the Great Wall ([[Atlas]]).
+**The Great Wall.** The dwarves sat idle for five centuries; since the [[Bazaar]] rose, c. year 500, they have sold star metal there. Around year 610, they looked at the chaos, declared themselves the first and best of races, and walled Kharag Duun twice over: the Great Wall ([[Atlas]]).
 
 In the Third Age the dwarves raised an army (c. year 620) and the Stone Talus another (c. year 630); they marched with the Talus to take [[Greenhaven]] (c. year 640) and became **master diplomats**, taught in their schools. The [[Third Meteor|third meteor]] split Sky Spear's ancient ice and left the mountain porous — tunnels and caverns open where none were.
 

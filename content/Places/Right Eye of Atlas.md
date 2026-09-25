@@ -14,7 +14,7 @@ tags:
 **Made:** c. 4,000 years before year zero (First Age), by [[Atlas]].
 
 ## Story
-[[Atlas]] set a Perpetual Tempest just south of the [[Hand of Atlas]], rising out of the sea: hurricane winds, wild storm, without end. [[Astralis]] asked him to hang it over the lake country instead, to hide the stars reflected in [[Star Lake]]; Atlas declined.
+[[Atlas]] set a Perpetual Tempest just south of the [[Hand of Atlas]], rising out of the sea: hurricane winds, wild storm, without end.
 
 It is the Right Eye of Atlas; with the ring-mountain lake raised c. 1,000 years before year zero — the [[Left Eye of Atlas]] — it makes the pair.
 

@@ -14,7 +14,7 @@ tags:
 ## Story
 Around year 500, late in the Second Age, [[Atlas]] saw the [[Centaur Roads]] crowded and the sky closed by the [[Skybreak]], and filled the gap with the [[Halflings]] — small nomad traders of the roads — and among them the [[Kamatari]], an order of moneylenders. In the same years, his [[Stone Talus]] founded a city at the point where the roads cross the river, with no walls at all: the Bazaar, one enormous market where halflings, [[Centaurs|centaurs]], [[Humans|humans]], [[Ice Giants|giants]] and [[Dwarves|dwarves]] trade, and caravans leave in every direction.
 
-The [[Dwarves|dwarves]] of [[Kharag Duun]], idle for five centuries, did little but sell [[Star Metal|star metal]] here.
+From its founding, the [[Dwarves|dwarves]] of [[Kharag Duun]] have sold [[Star Metal|star metal]] here.
 
 When the Third Age broke into war, [[Atlas]] made the Bazaar **untouchable** (c. year 610): neutral forever, selling bread and bedrolls to every army. No one fights inside it, and no one wants to destroy it.
 
