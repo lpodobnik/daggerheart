@@ -131,3 +131,15 @@ article > p:first-of-type:has(> img:only-child) {
 
 // ── Bold labels (Founded:, Created:) in small caps ──────────
 article > p > strong:first-child { font-variant: small-caps; letter-spacing: 0.03em; }
+
+// ── The history video ───────────────────────────────────────
+article video {
+  width: 100%;
+  display: block;
+  margin: 1rem 0 1.6rem;
+  background: #000;
+  border: 1px solid var(--tertiary);
+  outline: 3px double var(--tertiary);
+  outline-offset: 3px;
+  box-shadow: 0 6px 18px rgba(60, 35, 10, 0.28);
+}
