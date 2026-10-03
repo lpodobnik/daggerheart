@@ -28,5 +28,4 @@ Their island holds the shattered crystal: wild magic and monstrosities, densest 
 - [[Evil Alliance]] — bound to Glaive Port
 - [[Shattering]] · [[Great Crystals]] — their crystal is the one that shattered
 - [[Water Elves]] — the wider people, now also corrupted
-
-Open: [?] their island's name and exact position (Nerathis lies in the north-west).
+- [[Nyravel]] — their island, far in the north-west

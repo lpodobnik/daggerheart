@@ -16,7 +16,7 @@ tags:
 
 In the first years after year zero Astralis made the [[Humans]] here, along the River of Life: neutral, featureless, breeding easily and spreading, their first order the peaceful [[Cradle]]. Around year 300 [[Sylvanus]] founded [[Greenhaven]] on the river, and around year 400 Astralis founded [[Heart of the Plains]], the human city.
 
-Around year 610 Sylvanus raised the [[Tree of Life]] on the plains near Heart of the Plains. Around year 620 Heart of the Plains raised the [[Ballista Tower]]; around year 630 its armies and Greenhaven's went to the [[War Zone]]. At the end of the Age the [[Third Meteor]] struck the mountain slopes beside the city: earthquake and mudslides broke it, buried armies, made another swamp and a crater-lake, and cracked the Ballista.
+Around year 610 Sylvanus raised the [[Tree of Life]] on the southern plains, just east of the meteor bay. Around year 620 Heart of the Plains raised the [[Ballista Tower]]; around year 630 its armies and Greenhaven's went to the [[War Zone]]. At the end of the Age the [[Third Meteor]] struck the mountain slopes beside the city: earthquake and mudslides broke it, buried armies, made another swamp and a crater-lake, and cracked the Ballista.
 
 ## Now
 Humans everywhere, the dominant city-builders. Heart of the Plains lies broken, its Ballista cracked; Greenhaven is dwarf-ruled; the Tree of Life is hidden within the [[Grove]].

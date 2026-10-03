@@ -15,7 +15,7 @@ tags:
 ## Story
 [[Atlas]] raised Sky Spear Mountain — terribly steep, far taller than it is wide. In the same years [[Svarog]] tapped a spring inside it and loosed the [[Slithering River]]; Atlas answered by opening the other side, and a sister river ran away into Svarog's arid land and over the rim of [[World's Breach]]. Around 4,000 years before year zero Atlas raised hills beside the [[Eternal Steppe]], reaching toward it.
 
-Around 3,000 years before year zero the [[Stone Talus]] stood between the hills and the mountains. At Atlas's command lightning gathered at the spear-tip and struck the Talus, and the pieces that fell became proto-dwarves — the [[Dwarves]], who went to live inside Sky Spear. [[Astralis]] seeded [[Star Metal]] into its rock; the dwarves cannot see it but *feel* it glinting in the fissures, one reason they never left. Above the deposit they built [[Kharag Duun]] (c. 2,000 years before year zero), and around year 100 the Talus raised the [[Magical Forge]] there, fed with magma from the mountain's depths.
+Around 3,000 years before year zero the [[Stone Talus]] stood between the hills and the mountains. At Atlas's command lightning gathered at the spear-tip and struck the Talus, and the pieces that fell became proto-dwarves — the [[Dwarves]], who went to live inside Sky Spear. [[Astralis]] seeded [[Star Metal]] into its rock; the dwarves can see it like anyone else, but they also *feel* it glinting in the fissures, one reason they never left. Above the deposit they built [[Kharag Duun]] (c. 2,000 years before year zero), and around year 100 the Talus raised the [[Magical Forge]] there, fed with magma from the mountain's depths.
 
 Around year 400 Atlas made the [[Harpies]] in the south of Sky Spear.
 

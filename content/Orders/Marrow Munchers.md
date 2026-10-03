@@ -13,7 +13,7 @@ tags:
 **Founded: c. year 200 (Second Age), by [[Svarog]], with the Goblins**
 
 ## Story
-[[Svarog]] raised the [[Goblins]] out of the south-eastern mountains — evil raiders whose priests are the Marrow Munchers. Around year 300 the goblins, whose mountains lie near its epicentre by the [[Twins]], were among those caught by the [[Void Glance]].
+[[Svarog]] raised the [[Goblins]] out of the cliffs of the [[Twins]] — evil raiders whose priests are the Marrow Munchers. Around year 300 the goblins, whose home lies beside its epicentre, were among those caught by the [[Void Glance]].
 
 Around year 600, early in Age III, walled out, the goblins sent their boldest to dig: the Marrow Munchers, smeared in slime from the fallen star as war paint, tunnelled through the mountains so the goblins could keep raiding. Raiding parties can pass; armies cannot.
 

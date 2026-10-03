@@ -25,7 +25,7 @@ tags:
 
 **Malakai and the Mycomancers (c. year 630).** A leper healed himself and began to heal others — [[Malakai]] the Messenger, [[Svarog]]'s avatar. He founded the [[Mycomancers]] — humans, orcs, anyone — who command the [[Fungal Zombies|fungal dead]]. They became the ruling class, and the dead now patrol the streets without harming anyone.
 
-**The siege (c. year 640).** [[Malakai]] raised a defensive army. The [[Deepkin]] — for whom raising corpses with fungus is a travesty, and whose forest had burned — laid siege, and the city held: the [[Siege of Glaive Port]], a siege without end ([[Astralis]]). Mycomancer agents slipped out disguised as fungus to seed hidden cells in other cities.
+**The siege (c. year 640).** [[Malakai]] raised a defensive army. The [[Deepkin]] — for whom raising corpses with fungus is a travesty, and whose forest had burned — laid siege, and the city held: the [[Siege of Glaive Port]], a siege without end ([[Astralis]]). Zombified Mycomancer agents slipped out in disguise to found cells that work in secret in other cities.
 
 ## Now
 Mostly human; the orcs are the nominal rulers, the Mycomancers the real ones, through religion. The fungal dead patrol the streets. Besieged without end by the Deepkin. The Branded still hold its waters. Malakai lives here, old and decrepit but alive. Its four armies went out and died. The city may be renamed.

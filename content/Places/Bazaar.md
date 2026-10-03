@@ -12,7 +12,7 @@ tags:
 **Made untouchable:** c. year 610 (Third Age), by [[Atlas]]
 
 ## Story
-Around year 500, late in the Second Age, [[Atlas]] saw the [[Centaur Roads]] crowded and the sky closed by the [[Skybreak]], and filled the gap with the [[Halflings]] — small nomad traders of the roads — and among them the [[Knotted Purse]], an order of moneylenders. In the same years, his [[Stone Talus]] founded a city at the point where the roads cross the river, with no walls at all: the Bazaar, one enormous market where halflings, [[Centaurs|centaurs]], [[Humans|humans]], [[Ice Giants|giants]] and [[Dwarves|dwarves]] trade, and caravans leave in every direction.
+Around year 500, late in the Second Age, [[Atlas]] saw the [[Centaur Roads]] crowded and the sky closed by the [[Skybreak]], and filled the gap with the [[Halflings]] — small nomad traders of the roads — and among them the [[Knotted Purse]], an order of moneylenders. In the same years, his [[Stone Talus]] founded a city at the point where the roads cross the [[River of Life]], with no walls at all: the Bazaar, one enormous market where halflings, [[Centaurs|centaurs]], [[Humans|humans]], [[Ice Giants|giants]] and [[Dwarves|dwarves]] trade, and caravans leave in every direction.
 
 From its founding, the [[Dwarves|dwarves]] of [[Kharag Duun]] have sold [[Star Metal|star metal]] here.
 
@@ -27,16 +27,16 @@ A few months to a year after the [[Third Meteor|third meteor]], the Bazaar is th
 - **The Mages' Guild** buys crystal shards, [[Meteors|meteor]] fragments and curiosities — and since the [[Shattering]] the [[Great Crystals|great crystals]] are cracking.
 - **The Knotted Purse** lends money.
 - **The plague** has already been through.
-- [[Mycomancers|Mycomancer]] agents, disguised as fungus, slipped out of Glaive Port to seed hidden cells in other cities — perhaps here.
+- Zombified [[Mycomancers|Mycomancer]] agents slipped out of Glaive Port in disguise to found secret cells in other cities — perhaps here.
 
 ## Connections
 - [[Stone Talus]] — founded it; "the construction worker"
 - [[Atlas]] — made it untouchable
-- [[Centaur Roads]] — where the roads cross the river
+- [[Centaur Roads]] · [[River of Life]] — where the roads cross the river
 - [[Halflings]] / [[Knotted Purse]] — road traders and moneylenders
 - [[Mages' Guild]] — Svarog's scholars and shard-buyers, based here
 - [[Fungal Plague]] — passed through, second only to Glaive Port
 - [[Mycomancers]] — hidden cells, possibly here
 - [[Kharag Duun]] — dwarves selling star metal
 
-Open: which river the roads cross here [?]. Whether a Mycomancer cell is in the Bazaar [?].
+Open: whether a Mycomancer cell is in the Bazaar [?].

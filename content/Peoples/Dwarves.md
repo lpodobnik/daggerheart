@@ -17,7 +17,7 @@ tags:
 **Created:** c. 3,000 years before year zero (First Age), by [[Atlas]] · **Orders:** [[Stone Defenders]] · [[Magisters]]
 
 ## Story
-Atlas gathered lightning at the tip of [[Sky Spear]] and struck the [[Stone Talus]], and the pieces that fell became proto-dwarves. They went to live inside the mountain. Because Atlas is a god of war, a sect of warriors with crude stone weapons arose among them, the [[Stone Defenders]]. They cannot see the [[Star Metal]] in the rock, but they *feel* it glinting, and it is one reason they never left. Above the deposit they built [[Kharag Duun]] (c. 2,000 years before year zero). They worship the Talus and the one who made him. The [[Fire Genasi]] also claim the name Children of Stone.
+Atlas gathered lightning at the tip of [[Sky Spear]] and struck the [[Stone Talus]], and the pieces that fell became proto-dwarves. They went to live inside the mountain. Because Atlas is a god of war, a sect of warriors with crude stone weapons arose among them, the [[Stone Defenders]]. They can see the [[Star Metal]] in the rock like anyone else, but they also *feel* it glinting, and it is one reason they never left. Above the deposit they built [[Kharag Duun]] (c. 2,000 years before year zero). They worship the Talus and the one who made him. The [[Fire Genasi]] also claim the name Children of Stone.
 
 In year zero the [[Second Meteor]] blew open the [[First Fortress]] just as they were migrating into it. An entire order that had gone ahead was wiped out. It is their great wound, the one that only hardened them. Some hundred years later they left the Bronze Age by melding crystal magic with star metal, and the Talus raised the [[Magical Forge]]. Dwarf explorers mixing with [[Trenchborn]] became the [[Deepkin]].
 

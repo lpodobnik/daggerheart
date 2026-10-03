@@ -6,7 +6,7 @@ tags:
 - lore
 ---
 
-> The dwarves cannot see it, but they *feel* it glinting in the fissures.
+> The dwarves can see it like anyone else, but they also *feel* it glinting in the fissures.
 
 **Seeded:** c. 3,000 years before year zero (First Age), by [[Astralis]], into the rock of [[Sky Spear]] (and near the volcano)
 

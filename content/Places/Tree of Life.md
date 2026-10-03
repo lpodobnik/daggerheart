@@ -11,7 +11,7 @@ tags:
 **Raised:** c. year 610 (Third Age), by [[Sylvanus]]
 
 ## Story
-[[Sylvanus]] raised the Tree of Life on the plains near [[Heart of the Plains]], below the meteor bay: a vast tree in a Lothlórien forest, the land around it fertile, and the strongest healing magic in the world. In those same years, his [[Water Elves|elves]] found it and hid a city around it — the [[Grove]].
+[[Sylvanus]] raised the Tree of Life on the plains just east of the meteor bay, the [[Gorge of the Titans]]' sea mouth: a vast tree in a Lothlórien forest, the land around it fertile, and the strongest healing magic in the world. In those same years, his [[Water Elves|elves]] found it and hid a city around it — the [[Grove]].
 
 Around year 630, the [[Lizardmen|lizardmen]] were sent through the [[Underdark]] against the Tree; the Grove's misdirection held and the attack failed.
 
@@ -20,7 +20,5 @@ Hidden within the Grove, known to no race.
 
 ## Connections
 - [[Grove]] — the hidden city around it
-- [[Heart of the Plains]] — the nearest human city
+- [[Gorge of the Titans]] — its sea mouth is the meteor bay
 - [[Great Plains]] — the plains it rises from
-
-Open: which "meteor bay" it lies below [?].

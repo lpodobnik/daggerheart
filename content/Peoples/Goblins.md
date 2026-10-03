@@ -9,12 +9,12 @@ tags:
 
 ![[goblins.webp]]
 
-> Evil raiders out of the south-eastern mountains.
+> Evil raiders out of the cliffs of the Twins.
 
 **Created:** c. year 200 (Second Age), by [[Svarog]] · **Order:** [[Marrow Munchers]] (priests)
 
 ## Story
-Svarog raised them out of the south-eastern mountains as raiders with a religious order, the [[Marrow Munchers]]. Their mountains lie near the [[Twins]], and they were among those caught by the [[Void Glance]], though nothing special marks them out. Walled out in the Third Age, they sent their boldest to dig. Around year 600 the Marrow Munchers, smeared in slime from the fallen star as war paint, turned the mountains to Swiss cheese. Raiding parties can pass through; armies cannot.
+Svarog raised them out of the cliffs of the [[Twins]] as raiders with a religious order, the [[Marrow Munchers]]. The [[Void Glance]] struck just north of their home, and they were among those caught, though nothing special marks them out. Walled out in the Third Age, they sent their boldest to dig. Around year 600 the Marrow Munchers, smeared in slime from the fallen star as war paint, turned the mountains to Swiss cheese. Raiding parties can pass through; armies cannot.
 
 ## Now
 They raid through their tunnels.

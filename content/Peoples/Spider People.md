@@ -8,7 +8,7 @@ tags:
 
 ![[spider-people.webp]]
 
-> Clicking weavers of vast silk webs whom no one has yet managed to speak with.
+> Clicking weavers of vast silk webs.
 
 **Created:** c. year 500 (Second Age), by [[Astralis]], in the southern mountains · **Order:** [[Threadspinners]]
 
