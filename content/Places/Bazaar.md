@@ -29,6 +29,8 @@ A few months to a year after the [[Third Meteor|third meteor]], the Bazaar is th
 - **The plague** has already been through.
 - Zombified [[Mycomancers|Mycomancer]] agents slipped out of Glaive Port in disguise to found secret cells in other cities — perhaps here.
 
+Every merchant pays the Askeri a cut of the takings; that is the price of the peace. Coin is gold, and the big trades are counted in meteor pieces, a thousand gold apiece.
+
 ## Connections
 - [[Stone Talus]] — founded it; "the construction worker"
 - [[Atlas]] — made it untouchable
