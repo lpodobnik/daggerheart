@@ -6,6 +6,8 @@ title: The World
 
 Start with **[[world-history|A History of the World]]** — the whole story of the three Ages — or **[[watch|watch it]]** in six minutes.
 
+Missed a session? **[[sessions|Watch the session recaps]].**
+
 ## Browse
 
 - **[[Gods/index|Gods]]** — the four gods, their avatars and their works
