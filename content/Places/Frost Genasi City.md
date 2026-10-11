@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[frost-genasi-city.webp]]
+
 > Where the Frost Genasi gave up their igloos for a real city, on the island amid the ice floes.
 
 **Built:** c. year 500 (Second Age), by [[Svarog]]

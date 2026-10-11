@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[heart-of-the-plains.webp]]
+
 > The human city of the Great Plains, which built a ballista too big to aim and was then broken by a meteor's quake and mudslides.
 
 **Founded:** c. year 400 (Second Age), by [[Astralis]]

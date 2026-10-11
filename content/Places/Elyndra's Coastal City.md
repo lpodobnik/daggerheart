@@ -4,6 +4,8 @@ tags:
 - place
 ---
 
+![[elyndras-coastal-city.webp]]
+
 > The city a wounded angel built on the coast after her army died at Glaive Port.
 
 **Built:** c. year 620 (Third Age), by [[Elyndra]] ([[Sylvanus]])

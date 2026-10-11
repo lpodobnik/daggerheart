@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[star-lake.webp]]
+
 > A lake shaped like a five-pointed star, under a sky nothing can cloud.
 
 **Made:** c. 6,000 years before year zero (First Age), by [[Astralis]].

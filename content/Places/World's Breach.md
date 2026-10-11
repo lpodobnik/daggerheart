@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[worlds-breach.webp]]
+
 > A crater as deep as a canyon and perfectly round, where the first stone fell from the sky.
 
 **Made:** c. 6,000 years before year zero (First Age), by [[Svarog]] — the [[First Meteor]]. **The Breach Falls:** c. 5,000 years before year zero (First Age), by [[Atlas]].

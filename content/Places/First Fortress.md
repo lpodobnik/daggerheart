@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[first-fortress.webp]]
+
 > A natural fortress the size of a country, walls of almost perfectly flat stone — broken open by a falling star.
 
 **Raised:** c. 1,000 years before year zero (First Age), by [[Atlas]]. **Struck:** year zero (Second Age), by [[Svarog]] — the [[Second Meteor]].

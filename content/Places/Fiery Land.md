@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[fiery-land.webp]]
+
 > A peninsula's tip of geysers and hot, spitting mud.
 
 **Made:** c. 2,000 years before year zero (First Age), by [[Svarog]].

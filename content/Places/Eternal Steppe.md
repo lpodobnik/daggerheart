@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[eternal-steppe.webp]]
+
 > A vast steppe from the interior to the sea — perfect for riding.
 
 **Made:** c. 4,000 years before year zero (First Age), by [[Atlas]], with its hills.

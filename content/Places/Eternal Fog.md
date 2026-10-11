@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[eternal-fog.webp]]
+
 > A whole coast wrapped in fog — you cannot see the hand in front of your face.
 
 **Made:** c. 2,000 years before year zero (First Age), by [[Astralis]], in the south.

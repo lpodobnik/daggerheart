@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[war-zone.webp]]
+
 > A war that ended in a tie, and so never ends — now fought in a swamp.
 
 **Made:** c. year 630 (Third Age) ([[Astralis]] against [[Sylvanus]]'s elves). **Flooded:** c. year 640 (Third Age).

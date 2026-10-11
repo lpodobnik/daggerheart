@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[nyravel.webp]]
+
 > A small island of beautiful forest far in the north-west — the Last Tide's home, where the great crystal shattered.
 
 **Raised:** c. 1,000 years before year zero (First Age), by [[Sylvanus]]. — the small forested island with the scribbled-out crystal and the red X.

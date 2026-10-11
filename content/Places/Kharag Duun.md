@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[kharag-duun.webp]]
+
 > "The foundation of the mountain" — the dwarven city inside Sky Spear, built above a seam of star metal and now walled twice over.
 
 **Founded:** c. 2,000 years before year zero (First Age), by [[Atlas]] through the [[Stone Talus]] · **Great Wall:** c. year 610 (Third Age) ([[Atlas]])

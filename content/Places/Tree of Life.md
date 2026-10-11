@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[tree-of-life.webp]]
+
 > A vast tree in a Lothlórien forest, holding the strongest healing magic in the world.
 
 **Raised:** c. year 610 (Third Age), by [[Sylvanus]]

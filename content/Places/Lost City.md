@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[lost-city.webp]]
+
 > An empty city somewhere in the former desert, whose keepers wrote down the whole history of the world.
 
 **Hidden:** c. year 640 (Third Age), by [[Sylvanus]]

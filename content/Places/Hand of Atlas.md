@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[hand-of-atlas.webp]]
+
 > Five volcanic fingers thrust up out of the sea — four fingers and a thumb, the palm beneath the waves.
 
 **Raised:** c. 6,000 years before year zero (First Age), by [[Atlas]] (also called the Land of Hills).

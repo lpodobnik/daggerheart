@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[twins.webp]]
+
 > Two enormous cliffs with a gap between, and an inland sea between the peaks.
 
 **Raised:** c. 1,000 years before year zero (First Age), by [[Atlas]], in the south-west.

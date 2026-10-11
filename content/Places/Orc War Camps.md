@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[orc-war-camps.webp]]
+
 > The orcs' camps in the Obsidian Desert — the ones who stayed behind when the armies went to Glaive Port.
 
 **Founded:** c. year 400 (Second Age), by [[Atlas]] · **Where:** the [[Obsidian Desert]]

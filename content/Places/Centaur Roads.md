@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[centaur-roads.webp]]
+
 > Highways beaten across the world by centaur hooves, built to outlast a thousand years — and in places they simply vanish.
 
 **Made:** c. year 200 (Second Age), by [[Astralis]], through the [[Centaurs]]

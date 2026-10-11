@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[corpse-field.webp]]
+
 > Where the Ice Giants came to free Glaive Port, and died.
 
 **Made:** c. year 610 (Third Age) — [[Elyndra's Defeat]] (by [[Sylvanus]]).

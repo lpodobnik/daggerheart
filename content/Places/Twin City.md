@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[twin-city.webp]]
+
 > A fortress that exists only to make soldiers: everyone in the region serves a year on the wall.
 
 **Built:** c. year 600 (Third Age), by [[Sylvariel]] ([[Sylvanus]])

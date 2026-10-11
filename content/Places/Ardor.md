@@ -4,6 +4,8 @@ tags:
 - place
 ---
 
+![[ardor.webp]]
+
 > The volcano on the northern island, where a woman of flame bathes and the earth plays its organ.
 
 **Raised:** c. 4,000 years before year zero (First Age), by [[Svarog]].

@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[sea-of-ice.webp]]
+
 > Far waters frozen thick enough to walk on — and, strangely, a warm sea locked inside them.
 
 **Made:** c. 5,000 years before year zero (First Age), by [[Svarog]].

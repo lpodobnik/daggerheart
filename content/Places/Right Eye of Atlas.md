@@ -9,6 +9,8 @@ tags:
 - place
 ---
 
+![[right-eye-of-atlas.webp]]
+
 > The Perpetual Tempest — hurricane winds and wild storm, forever.
 
 **Made:** c. 4,000 years before year zero (First Age), by [[Atlas]].

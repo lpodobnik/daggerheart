@@ -4,6 +4,8 @@ tags:
 - place
 ---
 
+![[long-harbour.webp]]
+
 > A small island, pleasant and green, in the middle of a warm sea ringed by ice.
 
 **Made:** c. 4,000 years before year zero (First Age), by [[Svarog]].

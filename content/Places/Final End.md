@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[final-end.webp]]
+
 > A great obelisk of fused desert crystals in the orcs' central war camp.
 
 **Raised:** c. year 600 (Third Age), by [[Atlas]] · **Where:** the central camp of the [[Orc War Camps]]

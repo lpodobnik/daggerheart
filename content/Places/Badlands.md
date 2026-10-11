@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[badlands.webp]]
+
 > Razor-sharp limestone — blades of stone, pits and sinkholes. An avatar can cross it; ordinary folk barely.
 
 **Made:** c. 1,000 years before year zero (First Age), by [[Svarog]].

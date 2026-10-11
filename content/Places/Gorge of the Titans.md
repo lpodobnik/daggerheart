@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[gorge-of-the-titans.webp]]
+
 > Not a river canyon but an open wound in the earth, reaching the sea.
 
 **Made:** c. 4,000 years before year zero (First Age), by [[Sylvanus]] (also called the Gorge of Doom).

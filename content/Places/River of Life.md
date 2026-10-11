@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[river-of-life.webp]]
+
 > The river a god of war drew when his heart softened.
 
 **Made:** c. 2,000 years before year zero (First Age), by [[Atlas]].

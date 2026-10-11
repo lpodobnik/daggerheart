@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[selvaruun.webp]]
+
 > The City of Scholars, on the dragon's island behind the winds.
 
 **Founded:** c. year 400 (Second Age), by [[Sylvanus]] · **Where:** [[Elaruun]]

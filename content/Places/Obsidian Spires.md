@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[obsidian-spires.webp]]
+
 > A coast that looks unnatural: a forest of glass spires that glows day and night.
 
 **Made:** c. 5,000 years before year zero (First Age), by [[Astralis]].

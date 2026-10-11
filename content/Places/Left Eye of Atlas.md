@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[left-eye-of-atlas.webp]]
+
 > A near-perfect ring of mountain holding a deep lake at enormous height — until a god struck it.
 
 **Raised:** c. 1,000 years before year zero (First Age), by [[Atlas]]. **Collapsed:** c. year 640 (Third Age), by [[Astralis]].

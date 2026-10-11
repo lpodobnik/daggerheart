@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[obsidian-desert.webp]]
+
 > Not merely black sand, but sand of ground obsidian — volcanic glass.
 
 **Made:** c. 2,000 years before year zero (First Age), by [[Atlas]], joined to [[Svarog]]'s arid crater-land.

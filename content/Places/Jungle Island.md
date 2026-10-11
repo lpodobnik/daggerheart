@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[jungle-island.webp]]
+
 > The great southern island, all of it jungle — and now a war with three sides.
 
 **Made:** c. 4,000 years before year zero (jungle), finished c. 2,000 years before year zero (First Age), by [[Sylvanus]].

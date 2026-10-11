@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[great-plains.webp]]
+
 > Soil so rich that whatever you plant is up the next day.
 
 **Made:** c. 2,000 years before year zero (First Age), by [[Astralis]].

@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[misty-mountains.webp]]
+
 > Mountains that fall sheer into a fog-bound sea, like Velebit. No great city will ever stand there.
 
 **Raised:** c. 1,000 years before year zero (First Age), by [[Svarog]].

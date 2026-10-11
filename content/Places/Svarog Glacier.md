@@ -10,6 +10,8 @@ tags:
 - place
 ---
 
+![[svarog-glacier.webp]]
+
 > Mountains and a glacier above a great north-western bay, melting for years now.
 
 **Made:** c. 1,000 years before year zero (First Age), by [[Svarog]].

@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[ballista-tower.webp]]
+
 > A siege engine too big to aim, with a range of half the continent.
 
 **Raised:** c. year 620 (Third Age), by [[Astralis]], at [[Heart of the Plains]]

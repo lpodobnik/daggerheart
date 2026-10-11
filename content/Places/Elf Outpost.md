@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[elf-outpost.webp]]
+
 > An elven city on the coast between the jungle's edge and the mountains, and home port of the marines.
 
 **Founded:** c. year 500 (Second Age), by [[Sylvariel]] ([[Sylvanus]])

@@ -4,6 +4,8 @@ tags:
 - place
 ---
 
+![[coldspire.webp]]
+
 > A city of stone and ice on a raised hill in the cold north — the last refuge of the Ice Giants.
 
 **Founded:** c. year 300 (Second Age), by [[Atlas]] · **Where:** the cold north, near the [[Frozen North]]'s crystal

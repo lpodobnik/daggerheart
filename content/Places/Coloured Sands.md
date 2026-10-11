@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[coloured-sands.webp]]
+
 > A small peninsula whose shores are coloured sand — "and there is a reason for it."
 
 **Made:** c. 3,000 years before year zero (First Age), by [[Astralis]].

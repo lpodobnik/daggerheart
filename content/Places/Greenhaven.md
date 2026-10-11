@@ -9,6 +9,8 @@ tags:
 - place
 ---
 
+![[greenhaven.webp]]
+
 > The central city on the River of Life, home of history, writing and the Library — and now held by dwarven wardens.
 
 **Founded:** c. year 300 (Second Age), by [[Sylvanus]] · **The Library:** c. year 400 (Second Age), by [[Atlas]]

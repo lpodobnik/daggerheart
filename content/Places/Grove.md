@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[grove.webp]]
+
 > A hidden elven city around the Tree of Life, known to no race, where the forest shifts and scouts walk in circles.
 
 **Founded:** c. year 610 (Third Age), by [[Sylvanus]]

@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[black-mesa.webp]]
+
 > A maze of flat-topped mountains above the desert, forever dusted black by the wind.
 
 **Raised:** c. 2,000 years before year zero (First Age), by [[Svarog]].

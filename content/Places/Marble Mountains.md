@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[marble-mountains.webp]]
+
 > A range of regular, almost geometric forms of marble.
 
 **Raised:** c. 2,000 years before year zero (First Age), by [[Astralis]].

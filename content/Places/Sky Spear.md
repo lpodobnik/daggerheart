@@ -8,6 +8,8 @@ tags:
 - place
 ---
 
+![[sky-spear.webp]]
+
 > A massif that climbs far higher than it spreads, its summit a stone spear piercing the clouds.
 
 **Raised:** c. 5,000 years before year zero (First Age), by [[Atlas]].

@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[magical-forge.webp]]
+
 > A forge in the heart of Kharag Duun, fed with magma from the mountain's depths.
 
 **Raised:** c. year 100 (Second Age), by the [[Stone Talus]] ([[Atlas]])

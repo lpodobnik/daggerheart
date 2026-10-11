@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[glaive-port.webp]]
+
 > A walled human port on the eastern lake that was conquered, starved, turned to cannibalism, and is now ruled by the masters of the fungal dead.
 
 **Founded:** c. year 400 (Second Age), by [[Humans|humans]] at [[Svarog]]'s command · **Now:** besieged, endlessly

@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[frozen-north.webp]]
+
 > The far end of the world: hilly, bitterly cold — snow, ice, the pole.
 
 **Made:** c. 1,000 years before year zero (First Age), by [[Sylvanus]].

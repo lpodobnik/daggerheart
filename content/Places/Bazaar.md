@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[bazaar.webp]]
+
 > One enormous market where the roads cross the river — no walls, no war, and bread and bedrolls for every army.
 
 **Founded:** c. year 500 (Second Age), by the [[Stone Talus]], avatar of [[Atlas]]

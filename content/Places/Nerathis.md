@@ -4,6 +4,8 @@ tags:
 - place
 ---
 
+![[nerathis.webp]]
+
 > The secluded elves' city and shipyard of the warships of doom — on the island where the great crystal shattered.
 
 **Founded:** c. year zero (Second Age), by [[Sylvanus]] · **Where:** [[Nyravel]], the forested island far in the north-west, in the [[Sylmara Archipelago]]

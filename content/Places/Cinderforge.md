@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[cinderforge.webp]]
+
 > The Fire Genasi city on the northern volcano island — steam, airships, and a cracking crystal caged in coils.
 
 **Founded:** c. year 100 (Second Age), by [[Svarog]]'s avatar ([[Ardora]]) · **Pillars of Magic Harnessing:** c. year 640 (Third Age)

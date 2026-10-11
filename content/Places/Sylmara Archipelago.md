@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[sylmara-archipelago.webp]]
+
 > The first land of the world: islands in the western sea, ringed by winds that turn every sailor back.
 
 **Raised:** c. 6,000 years before year zero (First Age), by [[Sylvanus]] — the first act of creation.

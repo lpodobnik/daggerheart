@@ -7,6 +7,8 @@ tags:
 - place
 ---
 
+![[fungorn.webp]]
+
 > A forest that is not a forest: towering giant mushrooms, where strange things happen.
 
 **Made:** c. 2,000 years before year zero (First Age), by [[Svarog]].

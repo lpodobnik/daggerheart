@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[wasteland.webp]]
+
 > East of the Grove, along the road into the desert — a devastated land of scattered soldiers turned bandit — and dead who will not stay down.
 
 **Made:** c. year 620 (Third Age) — the [[Great Battle of the Third Age]] ([[Svarog]]'s armies against [[Sylvanus]]'s Grove).

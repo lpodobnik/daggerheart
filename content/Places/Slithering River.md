@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[slithering-river.webp]]
+
 > Svarog's river, loosed from a spring inside Atlas's mountain.
 
 **Made:** c. 5,000 years before year zero (First Age), by [[Svarog]].

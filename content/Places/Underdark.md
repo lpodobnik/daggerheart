@@ -6,6 +6,8 @@ tags:
 - place
 ---
 
+![[underdark.webp]]
+
 > The world beneath the world, opened in the south.
 
 **Opened:** c. year 200 (Second Age), by [[Sylvanus]], in the south.
