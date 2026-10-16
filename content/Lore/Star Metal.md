@@ -14,7 +14,7 @@ tags:
 Star metal is one reason the [[Dwarves]] never left the place they were born. They built [[Kharag Duun]] above the deposit c. 2,000 years before year zero, taking it as a sign that the powers had made a home for them. Around year 100 they left the Bronze Age by melding magic from the [[Great Crystals]] with star metal, and became smiths whose creations blend the two. The [[Stone Talus]] raised the [[Magical Forge]] in the same years. Then the dwarves sat idle for five centuries; since the [[Bazaar]] rose, c. year 500, they have sold star metal there.
 
 ## Now
-Kharag Duun is full of diplomats and star metal.
+Kharag Duun is full of diplomats and star metal. When the [[Third Meteor|third meteor]] fell, the dwarves reached it first and agreed to share its metal fairly; since then the [[Bazaar]] has been flooded with "meteor daggers", all fake, while the real metal stays in dwarven hands.
 
 ## Connections
 - [[Kharag Duun]]: built above the deposit
