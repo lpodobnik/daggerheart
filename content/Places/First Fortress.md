@@ -4,6 +4,7 @@ aliases:
 - The First Fortress
 tags:
 - place
+description: A natural fortress the size of a country, walls of almost perfectly flat stone — broken open by a falling star.
 ---
 
 ![[first-fortress.webp]]

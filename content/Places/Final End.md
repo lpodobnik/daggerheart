@@ -5,6 +5,7 @@ aliases:
 - the obelisk
 tags:
 - place
+description: A great obelisk of fused desert crystals in the orcs' central war camp.
 ---
 
 ![[final-end.webp]]

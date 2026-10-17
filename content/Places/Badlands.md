@@ -4,6 +4,7 @@ aliases:
 - The Badlands
 tags:
 - place
+description: Razor-sharp limestone — blades of stone, pits and sinkholes. An avatar can cross it; ordinary folk barely.
 ---
 
 ![[badlands.webp]]

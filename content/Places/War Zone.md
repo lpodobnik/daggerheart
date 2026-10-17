@@ -5,6 +5,7 @@ aliases:
 - WZ
 tags:
 - place
+description: A war that ended in a tie, and so never ends — now fought in a swamp.
 ---
 
 ![[war-zone.webp]]

@@ -4,6 +4,7 @@ aliases:
 - The Wasteland
 tags:
 - place
+description: East of the Grove, along the road into the desert — a devastated land of scattered soldiers turned bandit — and dead who will not stay down.
 ---
 
 ![[wasteland.webp]]

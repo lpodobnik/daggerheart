@@ -5,6 +5,7 @@ aliases:
 - Centaur
 tags:
 - people
+description: Nomads of the Eternal Steppe, which is perfect for riding. They beat the roads that will outlast a thousand years.
 ---
 
 ![[time-keepers.webp]]

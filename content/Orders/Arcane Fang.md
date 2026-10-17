@@ -5,6 +5,7 @@ aliases:
 - usurpers of magic
 tags:
 - order
+description: Lizardman usurpers of magic who want every crystal for their sons.
 ---
 
 > Lizardman usurpers of magic who want every crystal for their sons.

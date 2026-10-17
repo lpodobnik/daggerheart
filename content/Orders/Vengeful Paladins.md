@@ -6,6 +6,7 @@ aliases:
 - …of the Righteous Suffering
 tags:
 - order
+description: The only good orc is a dead orc.
 ---
 
 > *The only good orc is a dead orc.*

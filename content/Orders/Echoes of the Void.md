@@ -4,6 +4,7 @@ aliases:
 - The Echoes of the Void
 tags:
 - order
+description: They sense that sound, dance and colour together can reach their ancestors — but do not yet know how.
 ---
 
 > They sense that sound, dance and colour together can reach their ancestors — but do not yet know how.

@@ -4,6 +4,7 @@ aliases:
 - The Spider People
 tags:
 - people
+description: Clicking weavers of vast silk webs.
 ---
 
 ![[spider-people.webp]]

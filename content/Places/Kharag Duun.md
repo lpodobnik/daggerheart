@@ -6,6 +6,7 @@ aliases:
 - The Foundation of the Mountain
 tags:
 - place
+description: '"The foundation of the mountain" — the dwarven city inside Sky Spear, built above a seam of star metal and now walled twice over.'
 ---
 
 ![[kharag-duun.webp]]

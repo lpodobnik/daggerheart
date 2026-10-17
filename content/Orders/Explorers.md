@@ -4,6 +4,7 @@ aliases:
 - The Explorers
 tags:
 - order
+description: The first order of the water elves, who mean to find what lies on far unknown shores.
 ---
 
 > The first order of the water elves, who mean to find what lies on far unknown shores.

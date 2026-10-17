@@ -6,6 +6,7 @@ aliases:
 - the secluded elves
 tags:
 - order
+description: Water elves who went too far, turned inward, and want only to be left alone — and then to rule the seas.
 ---
 
 > Water elves who went too far, turned inward, and want only to be left alone — and then to rule the seas.

@@ -5,6 +5,7 @@ aliases:
 - Ley-line portal
 tags:
 - event
+description: A brief glimpse into the void, felt across the whole world.
 ---
 
 > A brief glimpse into the void, felt across the whole world.

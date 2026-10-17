@@ -6,6 +6,7 @@ aliases:
 - The crystals
 tags:
 - lore
+description: Six great crystals fuel all magic, one per school. Four are known, and two are lost.
 ---
 
 > Six great crystals fuel all magic, one per school. Four are known, and two are lost.

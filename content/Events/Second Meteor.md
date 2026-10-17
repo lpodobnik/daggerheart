@@ -6,6 +6,7 @@ aliases:
 - The falling star
 tags:
 - event
+description: '"The falling star that landed far in the west with a great roar." Year zero.'
 ---
 
 > "The falling star that landed far in the west with a great roar." Year zero.

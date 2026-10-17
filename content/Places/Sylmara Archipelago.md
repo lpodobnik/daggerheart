@@ -5,6 +5,7 @@ aliases:
 - Sylmara
 tags:
 - place
+description: 'The first land of the world: islands in the western sea, ringed by winds that turn every sailor back.'
 ---
 
 ![[sylmara-archipelago.webp]]

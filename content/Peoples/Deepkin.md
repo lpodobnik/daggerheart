@@ -5,6 +5,7 @@ aliases:
 - Mushroom-folk
 tags:
 - people
+description: 'Short and stout, with bearded tentacles: true mushroom-folk of Fungorn.'
 ---
 
 ![[deepkin.webp]]

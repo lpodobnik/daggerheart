@@ -6,6 +6,7 @@ aliases:
 - Tree City
 tags:
 - place
+description: A hidden elven city around the Tree of Life, known to no race, where the forest shifts and scouts walk in circles.
 ---
 
 ![[grove.webp]]

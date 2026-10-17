@@ -4,6 +4,7 @@ aliases:
 - The Collapse of the Left Eye
 tags:
 - event
+description: Astralis, angry that Atlas would suppress magic, struck him in the eye.
 ---
 
 > Astralis, angry that Atlas would suppress magic, struck him in the eye.

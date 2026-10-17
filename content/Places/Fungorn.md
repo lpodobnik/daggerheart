@@ -5,6 +5,7 @@ aliases:
 - The mushroom forest
 tags:
 - place
+description: 'A forest that is not a forest: towering giant mushrooms, where strange things happen.'
 ---
 
 ![[fungorn.webp]]

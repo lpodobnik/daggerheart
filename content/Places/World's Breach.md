@@ -6,6 +6,7 @@ aliases:
 - The Breach Falls
 tags:
 - place
+description: A crater as deep as a canyon and perfectly round, where the first stone fell from the sky.
 ---
 
 ![[worlds-breach.webp]]

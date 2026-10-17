@@ -5,6 +5,7 @@ aliases:
 - The Messenger
 tags:
 - avatar
+description: A leper of Glaive Port who healed himself, and then began to heal others.
 ---
 
 ![[malakai.webp]]

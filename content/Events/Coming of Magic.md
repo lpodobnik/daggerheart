@@ -5,6 +5,7 @@ aliases:
 - Schools of Magic Crystals
 tags:
 - event
+description: In four places, floating crystals appeared in the air. Magic had entered the world.
 ---
 
 > In four places, floating crystals appeared in the air. Magic had entered the world.

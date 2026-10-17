@@ -5,6 +5,7 @@ aliases:
 - The Great Battle
 tags:
 - event
+description: Glaive Port's four armies marched south for bread, and the forest swallowed them.
 ---
 
 > Glaive Port's four armies marched south for bread, and the forest swallowed them.

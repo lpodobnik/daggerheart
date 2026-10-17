@@ -5,6 +5,7 @@ aliases:
 - Left Eye
 tags:
 - place
+description: A near-perfect ring of mountain holding a deep lake at enormous height — until a god struck it.
 ---
 
 ![[left-eye-of-atlas.webp]]

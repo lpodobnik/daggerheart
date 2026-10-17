@@ -5,6 +5,7 @@ aliases:
 - Life River
 tags:
 - place
+description: The river a god of war drew when his heart softened.
 ---
 
 ![[river-of-life.webp]]

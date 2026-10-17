@@ -4,6 +4,7 @@ aliases:
 - Star metal
 tags:
 - lore
+description: The dwarves can see it like anyone else, but they also feel it glinting in the fissures.
 ---
 
 > The dwarves can see it like anyone else, but they also *feel* it glinting in the fissures.

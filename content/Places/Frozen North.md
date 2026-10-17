@@ -5,6 +5,7 @@ aliases:
 - The pole
 tags:
 - place
+description: 'The far end of the world: hilly, bitterly cold — snow, ice, the pole.'
 ---
 
 ![[frozen-north.webp]]

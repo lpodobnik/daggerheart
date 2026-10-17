@@ -5,6 +5,7 @@ aliases:
 - The coloured shore
 tags:
 - place
+description: A small peninsula whose shores are coloured sand — "and there is a reason for it."
 ---
 
 ![[coloured-sands.webp]]

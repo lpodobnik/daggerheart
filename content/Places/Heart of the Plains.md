@@ -5,6 +5,7 @@ aliases:
 - the Ballista's city
 tags:
 - place
+description: The human city of the Great Plains, which built a ballista too big to aim and was then broken by a meteor's quake and mudslides.
 ---
 
 ![[heart-of-the-plains.webp]]

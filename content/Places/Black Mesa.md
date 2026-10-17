@@ -4,6 +4,7 @@ aliases:
 - The Black Mesa
 tags:
 - place
+description: A maze of flat-topped mountains above the desert, forever dusted black by the wind.
 ---
 
 ![[black-mesa.webp]]

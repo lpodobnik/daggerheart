@@ -5,6 +5,7 @@ aliases:
 - The First Born of the Fire
 tags:
 - avatar
+description: 'A woman made of flame: "the First Born of the Fire", bathing in her volcano.'
 ---
 
 ![[ardora.webp]]

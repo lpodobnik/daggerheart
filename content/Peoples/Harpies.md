@@ -5,6 +5,7 @@ aliases:
 - Harpy
 tags:
 - people
+description: Winged bird-women of the south of Sky Spear, holy warriors against injustice.
 ---
 
 ![[harpies.webp]]

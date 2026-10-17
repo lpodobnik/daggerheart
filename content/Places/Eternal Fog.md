@@ -5,6 +5,7 @@ aliases:
 - The fog-bound coast
 tags:
 - place
+description: A whole coast wrapped in fog — you cannot see the hand in front of your face.
 ---
 
 ![[eternal-fog.webp]]

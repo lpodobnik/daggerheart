@@ -5,6 +5,7 @@ aliases:
 - Astral Cord
 tags:
 - order
+description: Elven musicians whose bamboo instruments give tones so beautiful they stun any listener not used to them.
 ---
 
 > Elven musicians whose bamboo instruments give tones so beautiful they stun any listener not used to them.

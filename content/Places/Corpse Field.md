@@ -4,6 +4,7 @@ aliases:
 - The Corpse Field
 tags:
 - place
+description: Where the Ice Giants came to free Glaive Port, and died.
 ---
 
 ![[corpse-field.webp]]

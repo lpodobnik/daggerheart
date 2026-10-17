@@ -6,6 +6,7 @@ aliases:
 - Karos
 tags:
 - avatar
+description: A good dwarf, Karros, riding the centaur Kassander.
 ---
 
 ![[karros-and-kassander.webp]]

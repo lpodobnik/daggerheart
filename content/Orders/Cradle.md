@@ -4,6 +4,7 @@ aliases:
 - The Cradle
 tags:
 - order
+description: 'The first human order: pure survival and peace, from a people who had met no one yet.'
 ---
 
 > The first human order: pure survival and peace, from a people who had met no one yet.

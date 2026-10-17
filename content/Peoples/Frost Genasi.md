@@ -4,6 +4,7 @@ aliases:
 - The Frost Genasi
 tags:
 - people
+description: Genasi who renounced fire, embraced ice, and lost their cinder to the cold.
 ---
 
 ![[genasi.webp]]

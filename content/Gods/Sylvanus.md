@@ -4,6 +4,7 @@ aliases:
 - Sylvanis
 tags:
 - god
+description: The god of the wild who raised islands, brought magic into the world, and built a great many cities.
 ---
 
 > The god of the wild who raised islands, brought magic into the world, and built a great many cities.

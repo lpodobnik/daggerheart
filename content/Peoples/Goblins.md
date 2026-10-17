@@ -5,6 +5,7 @@ aliases:
 - Goblin
 tags:
 - people
+description: Evil raiders out of the cliffs of the Twins.
 ---
 
 ![[goblins.webp]]

@@ -6,6 +6,7 @@ aliases:
 - Healers
 tags:
 - order
+description: Ice Giant healers who learned, through the crystal of the north, to channel healing magic.
 ---
 
 > Ice Giant healers who learned, through the crystal of the north, to channel healing magic.

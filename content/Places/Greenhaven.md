@@ -7,6 +7,7 @@ aliases:
 - the central city
 tags:
 - place
+description: The central city on the River of Life, home of history, writing and the Library — and now held by dwarven wardens.
 ---
 
 ![[greenhaven.webp]]

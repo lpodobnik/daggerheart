@@ -6,6 +6,7 @@ aliases:
 - Outpost Elf City
 tags:
 - place
+description: An elven city on the coast between the jungle's edge and the mountains, and home port of the marines.
 ---
 
 ![[elf-outpost.webp]]

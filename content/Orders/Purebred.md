@@ -4,6 +4,7 @@ aliases:
 - The Purebred
 tags:
 - order
+description: Centaur priests who hold that the union of beast and man makes them superior to every other race.
 ---
 
 > Centaur priests who hold that the union of beast and man makes them superior to every other race.

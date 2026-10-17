@@ -6,6 +6,7 @@ aliases:
 - Cinder Forge Wing Cartel
 tags:
 - order
+description: Fire Genasi who built steam-driven airships to explore the world — and, grounded, became masters of portals.
 ---
 
 > Fire Genasi who built steam-driven airships to explore the world — and, grounded, became masters of portals.

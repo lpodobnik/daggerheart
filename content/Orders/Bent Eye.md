@@ -4,6 +4,7 @@ aliases:
 - The Bent Eye
 tags:
 - order
+description: Mushroom-eating shamans who build non-Euclidean structures; whoever sees one goes absolutely insane.
 ---
 
 > Mushroom-eating shamans who build non-Euclidean structures; whoever sees one goes absolutely insane.

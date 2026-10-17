@@ -5,6 +5,7 @@ aliases:
 - The explorers' island
 tags:
 - place
+description: A small island of beautiful forest far in the north-west — the Last Tide's home, where the great crystal shattered.
 ---
 
 ![[nyravel.webp]]

@@ -6,6 +6,7 @@ aliases:
 - The Gorge of Doom
 tags:
 - place
+description: Not a river canyon but an open wound in the earth, reaching the sea.
 ---
 
 ![[gorge-of-the-titans.webp]]

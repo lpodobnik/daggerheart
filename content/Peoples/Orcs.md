@@ -6,6 +6,7 @@ aliases:
 - Orkish
 tags:
 - people
+description: 'Raised in the desert and bred for war — not savages but soldiers: disciplined, devout, and fanatical in their good.'
 ---
 
 ![[orcs.webp]]

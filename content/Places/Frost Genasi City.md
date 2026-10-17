@@ -4,6 +4,7 @@ aliases:
 - Eisgard
 tags:
 - place
+description: Where the Frost Genasi gave up their igloos for a real city, on the island amid the ice floes.
 ---
 
 ![[frost-genasi-city.webp]]

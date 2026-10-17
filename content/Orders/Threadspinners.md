@@ -7,6 +7,7 @@ aliases:
 - The Players on the Threads
 tags:
 - order
+description: Svirači na nitima — they play silk strings to speak and to pass on knowledge.
 ---
 
 > *Svirači na nitima* — they play silk strings to speak and to pass on knowledge.

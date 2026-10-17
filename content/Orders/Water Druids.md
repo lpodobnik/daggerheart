@@ -6,6 +6,7 @@ aliases:
 - druids
 tags:
 - order
+description: 'The Grove''s defenders: they confuse armies until their generals vanish, eaten by fungus or by trees.'
 ---
 
 > The Grove's defenders: they confuse armies until their generals vanish, eaten by fungus or by trees.

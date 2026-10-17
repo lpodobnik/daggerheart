@@ -6,6 +6,7 @@ aliases:
 - Warm sea
 tags:
 - place
+description: Far waters frozen thick enough to walk on — and, strangely, a warm sea locked inside them.
 ---
 
 ![[sea-of-ice.webp]]

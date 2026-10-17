@@ -2,6 +2,7 @@
 title: Long Harbour
 tags:
 - place
+description: A small island, pleasant and green, in the middle of a warm sea ringed by ice.
 ---
 
 ![[long-harbour.webp]]

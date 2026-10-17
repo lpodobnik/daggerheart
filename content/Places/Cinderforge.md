@@ -5,6 +5,7 @@ aliases:
 - The Pillars of Magic Harnessing
 tags:
 - place
+description: The Fire Genasi city on the northern volcano island — steam, airships, and a cracking crystal caged in coils.
 ---
 
 ![[cinderforge.webp]]

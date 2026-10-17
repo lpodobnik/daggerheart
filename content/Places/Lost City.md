@@ -6,6 +6,7 @@ aliases:
 - The Lost City of Knowledge and History
 tags:
 - place
+description: An empty city somewhere in the former desert, whose keepers wrote down the whole history of the world.
 ---
 
 ![[lost-city.webp]]

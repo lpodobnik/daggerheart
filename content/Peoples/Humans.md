@@ -5,6 +5,7 @@ aliases:
 - Human
 tags:
 - people
+description: The most basic, featureless beings, but many. They breed easily and gladly, and spread.
 ---
 
 ![[humans.webp]]

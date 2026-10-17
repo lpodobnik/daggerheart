@@ -5,6 +5,7 @@ aliases:
 - Crab people
 tags:
 - people
+description: Sentient crabs of extraordinary hardness, keepers of a sacred starfish, who become monsters every hundred years.
 ---
 
 ![[skjaldborg.webp]]

@@ -5,6 +5,7 @@ aliases:
 - The Monstrosities
 tags:
 - lore
+description: The world had no ogres before. Now it does.
 ---
 
 > The world had no ogres before. Now it does.

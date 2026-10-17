@@ -5,6 +5,7 @@ aliases:
 - Sylver Surfer
 tags:
 - avatar
+description: 'A silver shape risen out of Star Lake: humanoid before there were humanoids, with no face and no sex.'
 ---
 
 ![[silver-one.webp]]

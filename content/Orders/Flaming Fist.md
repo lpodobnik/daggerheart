@@ -4,6 +4,7 @@ aliases:
 - The Flaming Fist
 tags:
 - order
+description: A good human order — founded, yes, by the god of chaos.
 ---
 
 > A good human order — founded, yes, by the god of chaos.

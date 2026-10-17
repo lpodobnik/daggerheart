@@ -4,6 +4,7 @@ aliases:
 - The Twins
 tags:
 - place
+description: Two enormous cliffs with a gap between, and an inland sea between the peaks.
 ---
 
 ![[twins.webp]]

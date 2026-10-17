@@ -5,6 +5,7 @@ aliases:
 - The great southern island
 tags:
 - place
+description: The great southern island, all of it jungle — and now a war with three sides.
 ---
 
 ![[jungle-island.webp]]

@@ -4,6 +4,7 @@ aliases:
 - The Skybreak
 tags:
 - event
+description: Magical storms close the sky. Nothing may fly.
 ---
 
 > Magical storms close the sky. Nothing may fly.

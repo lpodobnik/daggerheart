@@ -5,6 +5,7 @@ aliases:
 - The south-eastern desert
 tags:
 - place
+description: Not merely black sand, but sand of ground obsidian — volcanic glass.
 ---
 
 ![[obsidian-desert.webp]]

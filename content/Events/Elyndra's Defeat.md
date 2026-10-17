@@ -4,6 +4,7 @@ aliases:
 - Elyndra's defeat
 tags:
 - event
+description: The Ice Angel came to liberate Glaive Port and was decisively defeated.
 ---
 
 > The Ice Angel came to liberate Glaive Port and was decisively defeated.

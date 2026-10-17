@@ -4,6 +4,7 @@ aliases:
 - The Bazaar
 tags:
 - place
+description: One enormous market where the roads cross the river — no walls, no war, and bread and bedrolls for every army.
 ---
 
 ![[bazaar.webp]]

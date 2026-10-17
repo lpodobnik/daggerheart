@@ -5,6 +5,7 @@ aliases:
 - dwarven defender sect
 tags:
 - order
+description: The first warriors of the Children of Stone, armed with crude stone weapons.
 ---
 
 > The first warriors of the Children of Stone, armed with crude stone weapons.

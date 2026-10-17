@@ -4,6 +4,7 @@ aliases:
 - The Marrow Munchers
 tags:
 - order
+description: Goblin priests who smear themselves in slime from the fallen star and turned the mountains to Swiss cheese.
 ---
 
 ![[goblins.webp]]

@@ -5,6 +5,7 @@ aliases:
 - The last meteor
 tags:
 - event
+description: The Age ended as it began, with a meteor.
 ---
 
 > The Age ended as it began, with a meteor.

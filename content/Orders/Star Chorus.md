@@ -4,6 +4,7 @@ aliases:
 - The Star Chorus
 tags:
 - order
+description: Dissonant, terrible choral music set down from the void's sound, that stops a listener where they stand.
 ---
 
 > Dissonant, terrible choral music set down from the void's sound, that stops a listener where they stand.

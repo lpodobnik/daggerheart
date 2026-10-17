@@ -5,6 +5,7 @@ aliases:
 - Wonder Forge
 tags:
 - place
+description: A forge in the heart of Kharag Duun, fed with magma from the mountain's depths.
 ---
 
 ![[magical-forge.webp]]

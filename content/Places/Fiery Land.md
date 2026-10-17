@@ -5,6 +5,7 @@ aliases:
 - The fiery land
 tags:
 - place
+description: A peninsula's tip of geysers and hot, spitting mud.
 ---
 
 ![[fiery-land.webp]]

@@ -1,5 +1,6 @@
 ---
 title: Session Recaps
+description: 'What happened at the table, told by the fire. Latest: Session 3 — Stop, Thief!'
 ---
 
 > What happened at the table, told by the fire. Newest first.

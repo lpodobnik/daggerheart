@@ -4,6 +4,7 @@ aliases:
 - The Trenchborn
 tags:
 - people
+description: 'Strange beings from the sea: tentacles where the lower jaw should be, skin iridescent like the inside of a shell.'
 ---
 
 ![[trenchborn.webp]]

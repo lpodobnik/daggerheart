@@ -4,6 +4,7 @@ aliases:
 - The Star Lake
 tags:
 - place
+description: A lake shaped like a five-pointed star, under a sky nothing can cloud.
 ---
 
 ![[star-lake.webp]]

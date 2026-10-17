@@ -6,6 +6,7 @@ aliases:
 - Genasi
 tags:
 - people
+description: Burning humanoids quickened from the glowing stones of Ardor's eruption. Evil, "like the Fire Nation".
 ---
 
 ![[genasi.webp]]

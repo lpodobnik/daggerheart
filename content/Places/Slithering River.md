@@ -4,6 +4,7 @@ aliases:
 - The Slithering River
 tags:
 - place
+description: Svarog's river, loosed from a spring inside Atlas's mountain.
 ---
 
 ![[slithering-river.webp]]

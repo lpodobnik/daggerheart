@@ -4,6 +4,7 @@ aliases:
 - The Fall of Glaive Port
 tags:
 - event
+description: 'No massacre, no pillage: curfew, martial law, and a trading city still trading.'
 ---
 
 > No massacre, no pillage: curfew, martial law, and a trading city still trading.

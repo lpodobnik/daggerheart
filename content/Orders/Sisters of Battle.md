@@ -6,6 +6,7 @@ aliases:
 - The Paladinke
 tags:
 - order
+description: Winged holy warriors, sworn to fight injustice everywhere.
 ---
 
 > Winged holy warriors, sworn to fight injustice everywhere.

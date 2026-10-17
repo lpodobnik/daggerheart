@@ -4,6 +4,7 @@ aliases:
 - The Eternal Alliance
 tags:
 - event
+description: Humans and centaurs, bound for shared prosperity and defence.
 ---
 
 > Humans and centaurs, bound for shared prosperity and defence.

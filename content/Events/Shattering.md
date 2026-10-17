@@ -4,6 +4,7 @@ aliases:
 - The Shattering
 tags:
 - event
+description: Atlas poured all his power into breaking magic itself.
 ---
 
 > Atlas poured all his power into breaking magic itself.

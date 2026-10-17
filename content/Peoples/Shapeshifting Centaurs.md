@@ -4,6 +4,7 @@ aliases:
 - Shapeshifting centaurs
 tags:
 - people
+description: Centaurs who, by ritual and magic, can take human form for a while.
 ---
 
 ![[shapeshifting-centaurs.webp]]

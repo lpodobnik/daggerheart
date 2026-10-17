@@ -6,6 +6,7 @@ aliases:
 - Lizardman
 tags:
 - people
+description: Wholly tribal and evil, ruled by nobles who killed every sibling in their clutch.
 ---
 
 ![[lizardmen.webp]]

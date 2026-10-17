@@ -6,6 +6,7 @@ aliases:
 - Land of Hills
 tags:
 - place
+description: Five volcanic fingers thrust up out of the sea — four fingers and a thumb, the palm beneath the waves.
 ---
 
 ![[hand-of-atlas.webp]]

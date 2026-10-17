@@ -5,6 +5,7 @@ aliases:
 - Fungal infection
 tags:
 - event
+description: 'Out of the burned mushroom forest spread a plague: sterility, and death if untreated.'
 ---
 
 > Out of the burned mushroom forest spread a plague: sterility, and death if untreated.

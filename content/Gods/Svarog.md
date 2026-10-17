@@ -4,6 +4,7 @@ aliases:
 - Swarog
 tags:
 - god
+description: '"I''m the god of chaos." Fire, the forge, and all three stones from the sky.'
 ---
 
 > "I'm the god of chaos." Fire, the forge, and all three stones from the sky.

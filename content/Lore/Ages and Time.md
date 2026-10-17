@@ -6,6 +6,7 @@ aliases:
 - The Ages
 tags:
 - lore
+description: Year zero is the falling star that landed far in the west with a great roar.
 ---
 
 > Year zero is the falling star that landed far in the west with a great roar.

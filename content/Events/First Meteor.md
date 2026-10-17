@@ -4,6 +4,7 @@ aliases:
 - The First Meteor
 tags:
 - event
+description: Svarog let chaos choose his place, and struck the near-centre of the continent with something from the sky.
 ---
 
 > Svarog let chaos choose his place, and struck the near-centre of the continent with something from the sky.

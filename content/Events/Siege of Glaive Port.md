@@ -4,6 +4,7 @@ aliases:
 - The Siege of Glaive Port
 tags:
 - event
+description: 'The Deepkin laid siege to Glaive Port, and it held: a siege without end.'
 ---
 
 > The Deepkin laid siege to Glaive Port, and it held: a siege without end.

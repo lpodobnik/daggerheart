@@ -5,6 +5,7 @@ aliases:
 - Rich Soil Land
 tags:
 - place
+description: Soil so rich that whatever you plant is up the next day.
 ---
 
 ![[great-plains.webp]]

@@ -5,6 +5,7 @@ aliases:
 - Halfling
 tags:
 - people
+description: 'A people who belong nowhere and everywhere: small nomad traders of the roads.'
 ---
 
 ![[halflings.webp]]

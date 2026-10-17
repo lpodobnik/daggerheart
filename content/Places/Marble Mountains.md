@@ -4,6 +4,7 @@ aliases:
 - The Marble Mountains
 tags:
 - place
+description: A range of regular, almost geometric forms of marble.
 ---
 
 ![[marble-mountains.webp]]

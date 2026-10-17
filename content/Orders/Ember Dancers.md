@@ -4,6 +4,7 @@ aliases:
 - The Ember Dancers
 tags:
 - order
+description: A Fire Genasi sect of dual-wielding blade dancers.
 ---
 
 > A Fire Genasi sect of dual-wielding blade dancers.

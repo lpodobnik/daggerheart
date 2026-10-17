@@ -6,6 +6,7 @@ aliases:
 - Koplje
 tags:
 - place
+description: A massif that climbs far higher than it spreads, its summit a stone spear piercing the clouds.
 ---
 
 ![[sky-spear.webp]]

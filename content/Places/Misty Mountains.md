@@ -5,6 +5,7 @@ aliases:
 - The southern mountains
 tags:
 - place
+description: Mountains that fall sheer into a fog-bound sea, like Velebit. No great city will ever stand there.
 ---
 
 ![[misty-mountains.webp]]

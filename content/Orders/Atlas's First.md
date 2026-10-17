@@ -4,6 +4,7 @@ aliases:
 - Atlas's First
 tags:
 - order
+description: The lizardman nobility — each of whom became noble by killing every sibling from his own clutch of eggs.
 ---
 
 > The lizardman nobility — each of whom became noble by killing every sibling from his own clutch of eggs.

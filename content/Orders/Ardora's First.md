@@ -4,6 +4,7 @@ aliases:
 - Ardora's First
 tags:
 - order
+description: 'The nobility of fire: those descended from the very first Genasi to fall burning from Ardor.'
 ---
 
 > The nobility of fire: those descended from the very first Genasi to fall burning from Ardor.

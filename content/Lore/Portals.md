@@ -5,6 +5,7 @@ aliases:
 - Portal
 tags:
 - lore
+description: Possible only near shards of the first meteor. Nearly impossible elsewhere.
 ---
 
 > Possible only near shards of the first meteor. Nearly impossible elsewhere.

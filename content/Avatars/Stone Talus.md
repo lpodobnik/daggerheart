@@ -7,6 +7,7 @@ aliases:
 - Stone Giant
 tags:
 - avatar
+description: 'A walking mass of rock, standing between the hills and the mountains: "the construction worker."'
 ---
 
 ![[stone-talus.webp]]

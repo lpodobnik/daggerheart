@@ -5,6 +5,7 @@ aliases:
 - Order of Eternal Peace
 tags:
 - order
+description: Sworn to keep the Eternal Alliance from ever breaking — by any means necessary.
 ---
 
 > Sworn to keep the Eternal Alliance from ever breaking — by any means necessary.

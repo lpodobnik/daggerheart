@@ -2,6 +2,7 @@
 title: Atlas
 tags:
 - god
+description: God of earth and war, a "heart of conflict" that softened at the sight of life, then broke magic to keep war honest.
 ---
 
 > God of earth and war, a "heart of conflict" that softened at the sight of life, then broke magic to keep war honest.

@@ -4,6 +4,7 @@ aliases:
 - The Underdark
 tags:
 - place
+description: The world beneath the world, opened in the south.
 ---
 
 ![[underdark.webp]]

@@ -5,6 +5,7 @@ aliases:
 - Meteor
 tags:
 - lore
+description: Every Age begins and ends with the fall of a meteor of unknown origin.
 ---
 
 > *Every Age begins and ends with the fall of a meteor of unknown origin.*

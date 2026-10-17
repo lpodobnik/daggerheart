@@ -8,6 +8,7 @@ aliases:
 - Dwarven
 tags:
 - people
+description: '"The Children of Stone": struck from the Talus by lightning, the first and, they say, the best of races.'
 ---
 
 ![[dwarves.webp]]

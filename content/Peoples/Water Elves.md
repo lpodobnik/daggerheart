@@ -6,6 +6,7 @@ aliases:
 - Water Elf
 tags:
 - people
+description: Skilled sailors who spread through the islands along the cold currents. Once neutral, now decadent.
 ---
 
 ![[water-elves.webp]]

@@ -4,6 +4,7 @@ aliases:
 - The Sandborn
 tags:
 - order
+description: The orcs' order of warriors, born in the desert for glory and war.
 ---
 
 > The orcs' order of warriors, born in the desert for glory and war.

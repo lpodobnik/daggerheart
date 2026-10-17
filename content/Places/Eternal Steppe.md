@@ -4,6 +4,7 @@ aliases:
 - The Eternal Steppe
 tags:
 - place
+description: A vast steppe from the interior to the sea — perfect for riding.
 ---
 
 ![[eternal-steppe.webp]]

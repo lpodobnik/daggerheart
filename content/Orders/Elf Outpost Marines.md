@@ -6,6 +6,7 @@ aliases:
 - the marines
 tags:
 - order
+description: Fighters for war at sea, raised at the Elf Outpost.
 ---
 
 > Fighters for war at sea, raised at the Elf Outpost.

@@ -4,6 +4,7 @@ aliases:
 - The Settlers
 tags:
 - order
+description: A good human order sent to find a site for a sister city.
 ---
 
 > A good human order sent to find a site for a sister city.

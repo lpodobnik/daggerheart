@@ -8,6 +8,7 @@ aliases:
 - Jokul Sleta
 tags:
 - place
+description: Mountains and a glacier above a great north-western bay, melting for years now.
 ---
 
 ![[svarog-glacier.webp]]

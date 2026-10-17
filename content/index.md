@@ -1,5 +1,6 @@
 ---
 title: The World
+description: Four gods built it in three Ages. It ended on a meteor. The campaign opens at the Bazaar c. year 650, a few months to a year later, as refugees from a thousand ruined villages pour in.
 ---
 
 > Four gods built it in three Ages. It ended on a meteor. The campaign opens at the [[Bazaar]] c. year 650, a few months to a year later, as refugees from a thousand ruined villages pour in.

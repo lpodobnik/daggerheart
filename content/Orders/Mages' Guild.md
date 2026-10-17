@@ -5,6 +5,7 @@ aliases:
 - Mage's Guild
 tags:
 - order
+description: To study magic, write it all down, and buy up everything strange.
 ---
 
 > To study magic, write it all down, and buy up everything strange.

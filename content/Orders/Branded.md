@@ -4,6 +4,7 @@ aliases:
 - The Branded
 tags:
 - order
+description: Pirates, prisoners and dock-scum, necks burned black with hot tar, who defend Glaive Port by the dirtiest means there are.
 ---
 
 > Pirates, prisoners and dock-scum, necks burned black with hot tar, who defend Glaive Port by the dirtiest means there are.

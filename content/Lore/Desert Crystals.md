@@ -5,6 +5,7 @@ aliases:
 - Desert crystals
 tags:
 - lore
+description: Small, obsidian-like crystals born of hot sand and dry air, which amplify magic.
 ---
 
 > Small, obsidian-like crystals born of hot sand and dry air, which amplify magic.

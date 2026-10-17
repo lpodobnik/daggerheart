@@ -5,6 +5,7 @@ aliases:
 - The unnatural coast
 tags:
 - place
+description: 'A coast that looks unnatural: a forest of glass spires that glows day and night.'
 ---
 
 ![[obsidian-spires.webp]]

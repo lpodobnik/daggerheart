@@ -6,6 +6,7 @@ aliases:
 - Balista Tower
 tags:
 - place
+description: A siege engine too big to aim, with a range of half the continent.
 ---
 
 ![[ballista-tower.webp]]

@@ -4,6 +4,7 @@ aliases:
 - Glaiveport
 tags:
 - place
+description: A walled human port on the eastern lake that was conquered, starved, turned to cannibalism, and is now ruled by the masters of the fungal dead.
 ---
 
 ![[glaive-port.webp]]

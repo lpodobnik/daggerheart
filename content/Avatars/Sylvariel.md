@@ -6,6 +6,7 @@ aliases:
 - Sylvan Dragon
 tags:
 - avatar
+description: The dragon of Elaruun, behind the winds.
 ---
 
 ![[sylvariel.webp]]

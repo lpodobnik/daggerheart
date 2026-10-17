@@ -6,6 +6,7 @@ aliases:
 - Vow of Peace
 tags:
 - order
+description: Samaritans of many races, bound to no city, who give up their possessions to help wherever there is ruin. They own nothing and give everything; the refugees they lead call them the Shepherds.
 ---
 
 > Samaritans of many races, bound to no city, who give up their possessions to help wherever there is ruin. They own nothing and give everything; the refugees they lead call them the Shepherds.

@@ -4,6 +4,7 @@ aliases:
 - The Elf-Spider Alliance
 tags:
 - event
+description: 'A Switzerland, both neutral: sea-lore traded for the paths through the Misty Mountains.'
 ---
 
 > A Switzerland, both neutral: sea-lore traded for the paths through the Misty Mountains.

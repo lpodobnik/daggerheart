@@ -7,6 +7,7 @@ aliases:
 - The Angel of Vengeance
 tags:
 - avatar
+description: '"The Angel of Vengeance". She was beaten at Glaive Port and won at the Underdark mouth.'
 ---
 
 ![[elyndra.webp]]

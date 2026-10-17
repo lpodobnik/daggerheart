@@ -4,6 +4,7 @@ aliases:
 - The Twin City
 tags:
 - place
+description: 'A fortress that exists only to make soldiers: everyone in the region serves a year on the wall.'
 ---
 
 ![[twin-city.webp]]

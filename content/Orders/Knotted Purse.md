@@ -4,6 +4,7 @@ aliases:
 - The Knotted Purse
 tags:
 - order
+description: Halfling moneylenders of the roads, who keep their debts in knots.
 ---
 
 > Halfling moneylenders of the roads, who keep their debts in knots.

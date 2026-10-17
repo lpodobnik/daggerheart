@@ -6,6 +6,7 @@ aliases:
 - Doombringer
 tags:
 - avatar
+description: An empty suit of obsidian plate that stood up out of the desert sands.
 ---
 
 ![[hollow-knight.webp]]

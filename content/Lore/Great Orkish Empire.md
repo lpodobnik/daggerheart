@@ -5,6 +5,7 @@ aliases:
 - Orkish Empire
 tags:
 - lore
+description: An empire in the making, with Glaive Port as its heart, and it rotted before it was born.
 ---
 
 > An empire in the making, with Glaive Port as its heart, and it rotted before it was born.

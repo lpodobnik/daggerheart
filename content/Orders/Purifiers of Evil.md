@@ -5,6 +5,7 @@ aliases:
 - Purifiers
 tags:
 - order
+description: A good Ice Giant order raised for a counter-offensive — to take an army and set Glaive Port free.
 ---
 
 > A good Ice Giant order raised for a counter-offensive — to take an army and set Glaive Port free.

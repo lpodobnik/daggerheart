@@ -6,6 +6,7 @@ aliases:
 - The fungal dead
 tags:
 - lore
+description: Mindless and leaderless, in every stage of decay.
 ---
 
 > Mindless and leaderless, in every stage of decay.

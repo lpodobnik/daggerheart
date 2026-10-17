@@ -7,6 +7,7 @@ aliases:
 - The Perpetual Tempest
 tags:
 - place
+description: The Perpetual Tempest — hurricane winds and wild storm, forever.
 ---
 
 ![[right-eye-of-atlas.webp]]

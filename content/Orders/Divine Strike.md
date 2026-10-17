@@ -4,6 +4,7 @@ aliases:
 - The Divine Strike
 tags:
 - order
+description: Harpies who spot for the Ballista from the air.
 ---
 
 > Harpies who spot for the Ballista from the air.
