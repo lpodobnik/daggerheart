@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { campaignOgCard } from "./og-card"
 
 /**
  * Quartz 4 Configuration
@@ -87,6 +88,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      Plugin.CustomOgImages({ colorScheme: "darkMode", imageStructure: campaignOgCard }),
     ],
   },
 }
