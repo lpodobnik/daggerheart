@@ -23,4 +23,4 @@ Nothing touched them in the Third Age. They remain a mystery.
 - [[Deepkin]]: their half-kin
 - [[Echoes of the Void]]: seekers of their ancestors
 
-Open: [?] their own name.
+Open: [?] their own name; [?] whether they have sexes.

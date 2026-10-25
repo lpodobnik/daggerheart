@@ -27,4 +27,4 @@ They are immune to the plague and besieging Glaive Port.
 - [[Fungorn]]: their forest, partly burned
 - [[Siege of Glaive Port]]: their endless war
 
-Open: [?] alignment.
+Open: [?] alignment; [?] whether they have sexes.
